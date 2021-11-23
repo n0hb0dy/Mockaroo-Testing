@@ -1,0 +1,503 @@
+[0m2021.11.23 14:39:48 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo' for client Visual Studio Code 1.62.3.[0m
+[0m2021.11.23 14:39:49 INFO  time: initialize in 0.35s[0m
+[0m2021.11.23 14:39:49 WARN  Build server is not auto-connectable.[0m
+[0m2021.11.23 14:39:52 INFO  running 'C:\Program Files (x86)\Java\jdk1.8.0_202\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\98jjm\AppData\Local\Temp\metals7792919840891521352\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+[0m2021.11.23 14:39:53 INFO  [info] welcome to sbt 1.5.5 (Oracle Corporation Java 1.8.0_202)[0m
+[0m2021.11.23 14:39:55 INFO  [info] loading settings for project mockaroo-build-build from metals.sbt ...[0m
+[0m2021.11.23 14:39:55 INFO  [info] loading project definition from C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\project\project[0m
+[0m2021.11.23 14:39:58 INFO  [info] loading settings for project mockaroo-build from metals.sbt ...[0m
+[0m2021.11.23 14:39:58 INFO  [info] loading project definition from C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\project[0m
+[0m2021.11.23 14:40:00 INFO  [success] Generated .bloop\mockaroo-build.json[0m
+[0m2021.11.23 14:40:00 INFO  [info] compiling 1 Scala source to C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\project\target\scala-2.12\sbt-1.0\classes ...[0m
+[0m2021.11.23 14:40:03 INFO  [info] done compiling[0m
+[0m2021.11.23 14:40:03 INFO  [success] Total time: 5 s, completed Nov 23, 2021 2:40:03 PM[0m
+[0m2021.11.23 14:40:04 INFO  [info] loading settings for project root from build.sbt ...[0m
+[0m2021.11.23 14:40:04 INFO  [info] set current project to mockaroo (in build file:/C:/Users/98jjm/OneDrive/Documents/Mockaroo%20Testing/mockaroo/)[0m
+Nov 23, 2021 2:40:05 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+[0m2021.11.23 14:40:05 INFO  [success] Generated .bloop\root.json[0m
+[0m2021.11.23 14:40:05 INFO  [success] Generated .bloop\root-test.json[0m
+[0m2021.11.23 14:40:05 INFO  [success] Total time: 1 s, completed Nov 23, 2021 2:40:05 PM[0m
+[0m2021.11.23 14:40:06 INFO  time: ran 'sbt bloopInstall' in 13s[0m
+[0m2021.11.23 14:40:06 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 30900'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading 2 projects from 'c:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\.bloop'...
+[0m[32m[D][0m Loading project from 'c:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\.bloop\root.json'
+[0m[32m[D][0m Loading project from 'c:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\.bloop\root-test.json'
+[0m[32m[D][0m Cache miss for scala instance org.scala-lang:scala-compiler:2.13.7.
+[0m[32m[D][0m   => C:\Users\98jjm\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\net\java\dev\jna\jna\5.8.0\jna-5.8.0.jar
+[0m[32m[D][0m   => C:\Users\98jjm\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\jline\jline\3.20.0\jline-3.20.0.jar
+[0m[32m[D][0m   => C:\Users\98jjm\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-compiler\2.13.7\scala-compiler-2.13.7.jar
+[0m[32m[D][0m   => C:\Users\98jjm\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.13.7\scala-library-2.13.7.jar
+[0m[32m[D][0m   => C:\Users\98jjm\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-reflect\2.13.7\scala-reflect-2.13.7.jar
+[0m[32m[D][0m Missing analysis file for project 'root-test'
+[0m[32m[D][0m Missing analysis file for project 'root'
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:30900...
+The server is listening for incoming connections at tcp://127.0.0.1:30900...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.11.23 14:40:06 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\98jjm\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2021.11.23 14:40:09 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 30924'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:30924...
+The server is listening for incoming connections at tcp://127.0.0.1:30924...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.11.23 14:40:10 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\98jjm\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2021.11.23 14:40:10 INFO  time: Connected to build server in 4.62s[0m
+[0m2021.11.23 14:40:10 INFO  Connected to Build server: Bloop v1.4.11[0m
+[0m2021.11.23 14:40:14 INFO  time: indexed workspace in 4.02s[0m
+[0m2021.11.23 14:40:16 INFO  no build target: using presentation compiler with only scala-library: 2.13.7[0m
+[0m2021.11.23 14:41:09 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 14:41:13 INFO  compiling root-test (1 scala source)[0m
+[0m2021.11.23 14:41:14 ERROR IO error while decoding C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Hello.scala with UTF-8: C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Hello.scala (The system cannot find the file specified)
+Please try specifying another one using the -encoding option[0m
+[0m2021.11.23 14:41:14 WARN  failed to generate semanticdb for C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Hello.scala:
+java.nio.file.NoSuchFileException: C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Hello.scala
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:79)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:97)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:102)
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:230)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.Files.readAllBytes(Files.java:3152)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.inputs.Input$File.chars$lzycompute(Input.scala:52)
+	at scala.meta.inputs.Input$File.chars(Input.scala:52)
+	at scala.meta.internal.parsers.ScalametaParser.<init>(ScalametaParser.scala:153)
+	at scala.meta.internal.parsers.ScalametaParser$$anon$264.apply(ScalametaParser.scala:5320)
+	at scala.meta.parsers.Api$XtensionParseDialectInput.parse(Api.scala:25)
+	at scala.meta.internal.semanticdb.scalac.ParseOps$XtensionCompilationUnitSource.toSource(ParseOps.scala:17)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument.toTextDocument(TextDocumentOps.scala:201)
+	at scala.meta.internal.semanticdb.scalac.TextDocumentOps$XtensionCompilationUnitDocument.toTextDocument(TextDocumentOps.scala:52)
+	at scala.meta.internal.semanticdb.scalac.SemanticdbPipeline$SemanticdbTyperComponent$ComputeSemanticdbPhase.saveSemanticdbForCompilationUnit(SemanticdbPipeline.scala:60)
+	at scala.meta.internal.semanticdb.scalac.SemanticdbPipeline$SemanticdbTyperComponent$ComputeSemanticdbPhase.apply(SemanticdbPipeline.scala:67)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:459)
+	at scala.tools.nsc.Global$GlobalPhase.run(Global.scala:406)
+	at scala.meta.internal.semanticdb.scalac.SemanticdbPipeline$SemanticdbTyperComponent$ComputeSemanticdbPhase.run(SemanticdbPipeline.scala:77)
+	at scala.tools.nsc.Global$Run.compileUnitsInternal(Global.scala:1524)
+	at scala.tools.nsc.Global$Run.compileUnits(Global.scala:1508)
+	at scala.tools.nsc.Global$Run.compileSources(Global.scala:1500)
+	at scala.tools.nsc.Global$Run.compile(Global.scala:1634)
+	at xsbt.CachedCompiler0.run(CompilerInterface.scala:148)
+	at xsbt.CachedCompiler0.run(CompilerInterface.scala:123)
+	at xsbt.CompilerInterface.run(CompilerInterface.scala:35)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at sbt.internal.inc.AnalyzingCompiler.call(AnalyzingCompiler.scala:252)
+	at sbt.internal.inc.AnalyzingCompiler.compile(AnalyzingCompiler.scala:121)
+	at sbt.internal.inc.AnalyzingCompiler.compile(AnalyzingCompiler.scala:94)
+	at sbt.internal.inc.bloop.internal.BloopHighLevelCompiler.compileSources$1(BloopHighLevelCompiler.scala:141)
+	at sbt.internal.inc.bloop.internal.BloopHighLevelCompiler.$anonfun$compile$7(BloopHighLevelCompiler.scala:159)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at sbt.internal.inc.bloop.internal.BloopHighLevelCompiler.$anonfun$compile$1(BloopHighLevelCompiler.scala:71)
+	at bloop.tracing.BraveTracer.traceInternal(BraveTracer.scala:65)
+	at bloop.tracing.BraveTracer.trace(BraveTracer.scala:39)
+	at sbt.internal.inc.bloop.internal.BloopHighLevelCompiler.timed$1(BloopHighLevelCompiler.scala:70)
+	at sbt.internal.inc.bloop.internal.BloopHighLevelCompiler.$anonfun$compile$6(BloopHighLevelCompiler.scala:159)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at monix.eval.internal.TaskRunLoop$.monix$eval$internal$TaskRunLoop$$loop$1(TaskRunLoop.scala:187)
+	at monix.eval.internal.TaskRunLoop$RestartCallback$1.onSuccess(TaskRunLoop.scala:119)
+	at monix.eval.Task$.$anonfun$forkedUnit$2(Task.scala:1463)
+	at java.util.concurrent.ForkJoinTask$RunnableExecuteAction.exec(ForkJoinTask.java:1402)
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:289)
+	at java.util.concurrent.ForkJoinPool$WorkQueue.runTask(ForkJoinPool.java:1056)
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1692)
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:157)
+[0m
+[0m2021.11.23 14:41:14 INFO  time: compiled root-test in 1.54s[0m
+[0m2021.11.23 14:41:14 INFO  time: compiled root in 5.58s[0m
+[0m2021.11.23 14:41:24 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 14:41:24 INFO  time: compiled root in 0.6s[0m
+Nov 23, 2021 2:41:28 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17
+Nov 23, 2021 2:41:30 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Nov 23, 2021 2:41:31 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:420)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:140)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:974)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:822)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:23)
+
+something's wrong: no file:///C:/Users/98jjm/OneDrive/Documents/Mockaroo%20Testing/mockaroo/src/main/scala/example/mock.scala in Array[<error>]RangePosition(file:///C:/Users/98jjm/OneDrive/Documents/Mockaroo%20Testing/mockaroo/src/main/scala/example/mock.scala, 47, 47, 55)
+something's wrong: no file:///C:/Users/98jjm/OneDrive/Documents/Mockaroo%20Testing/mockaroo/src/main/scala/example/mock.scala in Array[<error>]RangePosition(file:///C:/Users/98jjm/OneDrive/Documents/Mockaroo%20Testing/mockaroo/src/main/scala/example/mock.scala, 47, 47, 62)
+something's wrong: no file:///C:/Users/98jjm/OneDrive/Documents/Mockaroo%20Testing/mockaroo/src/main/scala/example/mock.scala in Array[<error>]RangePosition(file:///C:/Users/98jjm/OneDrive/Documents/Mockaroo%20Testing/mockaroo/src/main/scala/example/mock.scala, 47, 47, 55)
+something's wrong: no file:///C:/Users/98jjm/OneDrive/Documents/Mockaroo%20Testing/mockaroo/src/main/scala/example/mock.scala in Array[<error>]RangePosition(file:///C:/Users/98jjm/OneDrive/Documents/Mockaroo%20Testing/mockaroo/src/main/scala/example/mock.scala, 47, 47, 56)
+something's wrong: no file:///C:/Users/98jjm/OneDrive/Documents/Mockaroo%20Testing/mockaroo/src/main/scala/example/mock.scala in Array[<error>]RangePosition(file:///C:/Users/98jjm/OneDrive/Documents/Mockaroo%20Testing/mockaroo/src/main/scala/example/mock.scala, 47, 47, 60)
+something's wrong: no file:///C:/Users/98jjm/OneDrive/Documents/Mockaroo%20Testing/mockaroo/src/main/scala/example/mock.scala in Array[<error>]RangePosition(file:///C:/Users/98jjm/OneDrive/Documents/Mockaroo%20Testing/mockaroo/src/main/scala/example/mock.scala, 47, 47, 59)
+something's wrong: no file:///C:/Users/98jjm/OneDrive/Documents/Mockaroo%20Testing/mockaroo/src/main/scala/example/mock.scala in Array[<error>]RangePosition(file:///C:/Users/98jjm/OneDrive/Documents/Mockaroo%20Testing/mockaroo/src/main/scala/example/mock.scala, 47, 47, 58)
+something's wrong: no file:///C:/Users/98jjm/OneDrive/Documents/Mockaroo%20Testing/mockaroo/src/main/scala/example/mock.scala in Array[<error>]RangePosition(file:///C:/Users/98jjm/OneDrive/Documents/Mockaroo%20Testing/mockaroo/src/main/scala/example/mock.scala, 47, 47, 57)
+something's wrong: no file:///C:/Users/98jjm/OneDrive/Documents/Mockaroo%20Testing/mockaroo/src/main/scala/example/mock.scala in Array[String]RangePosition(file:///C:/Users/98jjm/OneDrive/Documents/Mockaroo%20Testing/mockaroo/src/main/scala/example/mock.scala, 47, 47, 60)
+something's wrong: no file:///C:/Users/98jjm/OneDrive/Documents/Mockaroo%20Testing/mockaroo/src/main/scala/example/mock.scala in Array[String]RangePosition(file:///C:/Users/98jjm/OneDrive/Documents/Mockaroo%20Testing/mockaroo/src/main/scala/example/mock.scala, 47, 47, 60)
+something's wrong: no file:///C:/Users/98jjm/OneDrive/Documents/Mockaroo%20Testing/mockaroo/src/main/scala/example/mock.scala in Array[String]RangePosition(file:///C:/Users/98jjm/OneDrive/Documents/Mockaroo%20Testing/mockaroo/src/main/scala/example/mock.scala, 47, 47, 60)
+Nov 23, 2021 3:59:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 26 is not a valid line number, allowed [0..8]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:133)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:62)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:61)
+	at scala.collection.immutable.List.collect(List.scala:323)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:61)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1555)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1554)
+	... 15 more
+
+[0m2021.11.23 16:01:14 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:01:14 INFO  time: compiled root in 0.22s[0m
+[0m2021.11.23 16:01:28 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:01:28 INFO  time: compiled root in 0.2s[0m
+[0m2021.11.23 16:01:33 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:01:33 INFO  time: compiled root in 0.13s[0m
+[0m2021.11.23 16:01:54 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:01:54 INFO  time: compiled root in 0.12s[0m
+[0m2021.11.23 16:01:59 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:01:59 INFO  time: compiled root in 0.1s[0m
+[0m2021.11.23 16:02:23 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:02:23 INFO  time: compiled root in 0.13s[0m
+[0m2021.11.23 16:02:31 INFO  compiling mockaroo-build (1 scala source)[0m
+[0m2021.11.23 16:02:33 INFO  time: compiled mockaroo-build in 2.66s[0m
+[0m2021.11.23 16:02:33 INFO  time: code lens generation in 2.52s[0m
+Nov 23, 2021 4:02:49 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+[0m2021.11.23 16:02:51 INFO  running 'C:\Program Files (x86)\Java\jdk1.8.0_202\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\98jjm\AppData\Local\Temp\metals848210855302602530\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+[0m2021.11.23 16:02:52 INFO  [info] welcome to sbt 1.5.5 (Oracle Corporation Java 1.8.0_202)[0m
+[0m2021.11.23 16:02:52 INFO  [info] loading settings for project mockaroo-build-build from metals.sbt ...[0m
+[0m2021.11.23 16:02:54 INFO  [info] loading project definition from C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\project\project[0m
+[0m2021.11.23 16:02:54 INFO  [info] loading settings for project mockaroo-build from metals.sbt ...[0m
+[0m2021.11.23 16:02:54 INFO  [info] loading project definition from C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\project[0m
+[0m2021.11.23 16:02:57 INFO  [success] Generated .bloop\mockaroo-build.json[0m
+[0m2021.11.23 16:02:57 INFO  [success] Total time: 3 s, completed Nov 23, 2021 4:02:57 PM[0m
+[0m2021.11.23 16:02:58 INFO  [info] loading settings for project root from build.sbt ...[0m
+[0m2021.11.23 16:02:58 INFO  [info] set current project to mockaroo (in build file:/C:/Users/98jjm/OneDrive/Documents/Mockaroo%20Testing/mockaroo/)[0m
+[0m2021.11.23 16:02:58 INFO  [success] Generated .bloop\root-test.json[0m
+[0m2021.11.23 16:02:58 INFO  [success] Generated .bloop\root.json[0m
+[0m2021.11.23 16:02:58 INFO  [success] Total time: 0 s, completed Nov 23, 2021 4:02:59 PM[0m
+[0m2021.11.23 16:02:59 INFO  time: ran 'sbt bloopInstall' in 7.64s[0m
+[0m2021.11.23 16:02:59 INFO  Disconnecting from Bloop session...[0m
+[0m2021.11.23 16:02:59 INFO  Shut down connection with build server.[0m
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+[0m2021.11.23 16:02:59 INFO  Shut down connection with build server.[0m
+No more data in the client stdin, exiting...
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+[0m2021.11.23 16:02:59 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 43886'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Loading 2 projects from 'c:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\.bloop'...
+[0m[32m[D][0m Loading project from 'c:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\.bloop\root.json'
+[0m[32m[D][0m Loading project from 'c:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\.bloop\root-test.json'
+[0m[32m[D][0m Cache miss for scala instance org.scala-lang:scala-compiler:2.11.12.
+[0m[32m[D][0m   => C:\Users\98jjm\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\jline\jline\2.14.3\jline-2.14.3.jar
+[0m[32m[D][0m   => C:\Users\98jjm\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\modules\scala-parser-combinators_2.11\1.0.4\scala-parser-combinators_2.11-1.0.4.jar
+[0m[32m[D][0m   => C:\Users\98jjm\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\modules\scala-xml_2.11\1.0.5\scala-xml_2.11-1.0.5.jar
+[0m[32m[D][0m   => C:\Users\98jjm\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-compiler\2.11.12\scala-compiler-2.11.12.jar
+[0m[32m[D][0m   => C:\Users\98jjm\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-library\2.11.12\scala-library-2.11.12.jar
+[0m[32m[D][0m   => C:\Users\98jjm\AppData\Local\Coursier\Cache\v1\https\repo1.maven.org\maven2\org\scala-lang\scala-reflect\2.11.12\scala-reflect-2.11.12.jar
+[0m[32m[D][0m Configured Scala SemanticDB in projects 'root-test', 'root'
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:43886...
+The server is listening for incoming connections at tcp://127.0.0.1:43886...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.11.23 16:02:59 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\98jjm\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2021.11.23 16:02:59 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 44743'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:44743...
+The server is listening for incoming connections at tcp://127.0.0.1:44743...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.11.23 16:03:00 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\98jjm\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2021.11.23 16:03:00 INFO  time: Connected to build server in 1.35s[0m
+[0m2021.11.23 16:03:00 INFO  Connected to Build server: Bloop v1.4.11[0m
+[0m2021.11.23 16:03:03 INFO  time: indexed workspace in 2.25s[0m
+[0m2021.11.23 16:03:03 INFO  no build target: using presentation compiler with only scala-library: 2.12.14[0m
+[0m2021.11.23 16:03:08 WARN  no build target for: C:\Users\98jjm\OneDrive\Documents\_OctBatch\Real Time news analyzer\build.sbt[0m
+[0m2021.11.23 16:03:09 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:03:10 INFO  time: compiled root in 1.1s[0m
+Nov 23, 2021 4:03:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 492
+Nov 23, 2021 4:03:26 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+[0m2021.11.23 16:03:28 INFO  running 'C:\Program Files (x86)\Java\jdk1.8.0_202\bin\java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\98jjm\AppData\Local\Temp\metals6121777722221931355\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'[0m
+[0m2021.11.23 16:03:29 INFO  [info] welcome to sbt 1.5.5 (Oracle Corporation Java 1.8.0_202)[0m
+[0m2021.11.23 16:03:29 INFO  [info] loading settings for project mockaroo-build-build from metals.sbt ...[0m
+[0m2021.11.23 16:03:30 INFO  [info] loading project definition from C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\project\project[0m
+[0m2021.11.23 16:03:30 INFO  [info] loading settings for project mockaroo-build from metals.sbt ...[0m
+[0m2021.11.23 16:03:30 INFO  [info] loading project definition from C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\project[0m
+[0m2021.11.23 16:03:33 INFO  [success] Generated .bloop\mockaroo-build.json[0m
+[0m2021.11.23 16:03:33 INFO  [success] Total time: 3 s, completed Nov 23, 2021 4:03:34 PM[0m
+[0m2021.11.23 16:03:36 INFO  [info] loading settings for project root from build.sbt ...[0m
+[0m2021.11.23 16:03:36 INFO  [info] set current project to mockaroo (in build file:/C:/Users/98jjm/OneDrive/Documents/Mockaroo%20Testing/mockaroo/)[0m
+[0m2021.11.23 16:03:38 INFO  [success] Generated .bloop\root-test.json[0m
+[0m2021.11.23 16:03:38 INFO  [success] Generated .bloop\root.json[0m
+[0m2021.11.23 16:03:38 INFO  [success] Total time: 2 s, completed Nov 23, 2021 4:03:38 PM[0m
+[0m2021.11.23 16:03:38 INFO  time: ran 'sbt bloopInstall' in 10s[0m
+[0m2021.11.23 16:03:38 INFO  Disconnecting from Bloop session...[0m
+[0m2021.11.23 16:03:38 INFO  Shut down connection with build server.[0m
+[0m2021.11.23 16:03:38 INFO  Shut down connection with build server.[0m
+No more data in the client stdin, exiting...
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the server stdin, exiting...
+[0m2021.11.23 16:03:38 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 43211'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Loading 2 projects from 'c:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\.bloop'...
+[0m[32m[D][0m Loading project from 'c:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\.bloop\root.json'
+[0m[32m[D][0m Loading project from 'c:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\.bloop\root-test.json'
+[0m[32m[D][0m Configured Scala SemanticDB in projects 'root-test', 'root'
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:43211...
+The server is listening for incoming connections at tcp://127.0.0.1:43211...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.11.23 16:03:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\98jjm\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2021.11.23 16:03:39 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 15844'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:15844...
+The server is listening for incoming connections at tcp://127.0.0.1:15844...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.11.23 16:03:40 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\98jjm\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2021.11.23 16:03:40 INFO  time: Connected to build server in 1.35s[0m
+[0m2021.11.23 16:03:40 INFO  Connected to Build server: Bloop v1.4.11[0m
+Nov 23, 2021 4:03:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 516
+[0m2021.11.23 16:03:42 INFO  time: indexed workspace in 2.29s[0m
+[0m2021.11.23 16:03:42 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:03:43 INFO  no build target: using presentation compiler with only scala-library: 2.12.14[0m
+[0m2021.11.23 16:03:42 INFO  time: compiled root in 0.52s[0m
+Nov 23, 2021 4:04:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor7.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 45 is not a valid line number, allowed [0..44]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.lineLength$1(Position.scala:57)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:60)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:133)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:62)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:61)
+	at scala.collection.immutable.List.collect(List.scala:323)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:61)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1555)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1554)
+	... 15 more
+
+[0m2021.11.23 16:05:07 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:05:08 INFO  time: compiled root in 1.29s[0m
+[0m2021.11.23 16:05:09 INFO  shutting down Metals[0m
+[0m2021.11.23 16:05:09 INFO  Shut down connection with build server.[0m
+[0m2021.11.23 16:05:09 INFO  Shut down connection with build server.[0m
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+[0m2021.11.23 16:05:21 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo' for client Visual Studio Code 1.62.3.[0m
+[0m2021.11.23 16:05:21 INFO  time: initialize in 0.35s[0m
+[0m2021.11.23 16:05:21 INFO  Attempting to connect to the build server...[0m
+[0m2021.11.23 16:05:21 INFO  skipping build import with status 'Installed'[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 20458'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:20458...
+The server is listening for incoming connections at tcp://127.0.0.1:20458...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.11.23 16:05:23 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\98jjm\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2021.11.23 16:05:23 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 12958'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:12958...
+The server is listening for incoming connections at tcp://127.0.0.1:12958...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.11.23 16:05:23 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\98jjm\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2021.11.23 16:05:23 INFO  time: Connected to build server in 1.67s[0m
+[0m2021.11.23 16:05:23 INFO  Connected to Build server: Bloop v1.4.11[0m
+[0m2021.11.23 16:05:24 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2021.11.23 16:05:24 INFO  time: code lens generation in 2.4s[0m
+[0m2021.11.23 16:05:25 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+Nov 23, 2021 4:05:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4
+[0m2021.11.23 16:05:28 INFO  time: indexed workspace in 3.17s[0m
+[0m2021.11.23 16:05:28 INFO  no build target: using presentation compiler with only scala-library: 2.12.14[0m
+[0m2021.11.23 16:05:56 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:05:56 INFO  time: compiled root in 0.93s[0m
+[0m2021.11.23 16:06:54 WARN  no build target for: C:\Users\98jjm\OneDrive\Documents\_Revature_Code\Samples\Oct2021ScalaBatch\scalademos\src\main\scala\example\FirstHello.scala[0m
+Nov 23, 2021 4:06:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41
+[0m2021.11.23 16:06:58 WARN  no build target for: C:\Users\98jjm\OneDrive\Documents\_Revature_Code\Samples\Oct2021ScalaBatch\scalademos\src\main\scala\example\mongodb.scala[0m
+Nov 23, 2021 4:07:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 67
+[0m2021.11.23 16:07:21 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:07:21 INFO  time: compiled root in 0.89s[0m
+[0m2021.11.23 16:07:31 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:07:31 INFO  time: compiled root in 0.91s[0m
+[0m2021.11.23 16:20:21 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:20:21 INFO  time: compiled root in 0.96s[0m
+[0m2021.11.23 16:20:45 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:20:46 INFO  time: compiled root in 1.02s[0m
+[0m2021.11.23 16:21:00 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:21:00 INFO  time: compiled root in 0.86s[0m
+[0m2021.11.23 16:22:19 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:22:19 INFO  time: compiled root in 0.96s[0m
+[0m2021.11.23 16:22:59 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:22:59 INFO  time: compiled root in 0.33s[0m
+[0m2021.11.23 16:23:04 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:23:04 INFO  time: compiled root in 0.84s[0m
+[0m2021.11.23 16:23:07 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:23:07 INFO  time: compiled root in 0.9s[0m
+[0m2021.11.23 16:23:25 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:23:25 INFO  time: compiled root in 0.83s[0m
+[0m2021.11.23 16:23:51 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:23:51 INFO  time: compiled root in 0.89s[0m
+[0m2021.11.23 16:24:32 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:24:32 INFO  time: compiled root in 0.83s[0m
+[0m2021.11.23 16:24:51 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:24:51 INFO  time: compiled root in 0.93s[0m
+[0m2021.11.23 16:25:09 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:25:09 INFO  time: compiled root in 0.82s[0m
+[0m2021.11.23 16:25:38 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:25:38 INFO  time: compiled root in 0.92s[0m
+[0m2021.11.23 16:25:55 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:25:55 INFO  time: compiled root in 0.82s[0m
+[0m2021.11.23 16:26:12 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:26:12 INFO  time: compiled root in 0.91s[0m
+[0m2021.11.23 16:26:32 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:26:32 INFO  time: compiled root in 0.85s[0m
+[0m2021.11.23 16:30:33 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:30:33 INFO  time: compiled root in 0.86s[0m
+[0m2021.11.23 16:30:56 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:30:56 INFO  time: compiled root in 0.93s[0m
+[0m2021.11.23 16:31:10 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:31:10 INFO  time: compiled root in 0.84s[0m
+[0m2021.11.23 16:32:31 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:32:31 INFO  time: compiled root in 0.94s[0m
+[0m2021.11.23 16:32:44 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:32:44 INFO  time: compiled root in 0.85s[0m
+[0m2021.11.23 16:33:32 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:33:32 INFO  time: compiled root in 0.28s[0m
+[0m2021.11.23 16:33:42 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:33:42 INFO  time: compiled root in 0.93s[0m
+[0m2021.11.23 16:34:36 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:34:36 INFO  time: compiled root in 0.87s[0m
+[0m2021.11.23 16:35:56 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:35:56 INFO  time: compiled root in 0.95s[0m
+[0m2021.11.23 16:36:40 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:36:40 INFO  time: compiled root in 0.82s[0m
+[0m2021.11.23 16:37:00 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:37:00 INFO  time: compiled root in 0.84s[0m
+[0m2021.11.23 16:39:59 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:39:59 INFO  time: compiled root in 0.94s[0m
+[0m2021.11.23 16:42:14 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:42:14 INFO  time: compiled root in 0.28s[0m
+[0m2021.11.23 16:43:20 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:43:20 INFO  time: compiled root in 0.28s[0m
+[0m2021.11.23 16:43:28 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:43:28 INFO  time: compiled root in 0.9s[0m
+[0m2021.11.23 16:44:20 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:44:20 INFO  time: compiled root in 0.91s[0m
+[0m2021.11.23 16:46:53 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:46:53 INFO  time: compiled root in 0.9s[0m
+[0m2021.11.23 16:47:13 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 16:47:13 INFO  time: compiled root in 0.94s[0m
+[0m2021.11.23 17:00:47 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 17:00:47 INFO  time: compiled root in 0.27s[0m
+[0m2021.11.23 17:00:56 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 17:00:56 INFO  time: compiled root in 0.28s[0m
+[0m2021.11.23 17:01:19 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 17:01:19 INFO  time: compiled root in 1s[0m
+[0m2021.11.23 17:01:57 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 17:01:58 INFO  time: compiled root in 1.07s[0m
+[0m2021.11.23 17:02:43 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 17:02:43 INFO  time: compiled root in 0.96s[0m
+[0m2021.11.23 17:03:55 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 17:03:55 INFO  time: compiled root in 0.93s[0m
+[0m2021.11.23 17:04:16 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 17:04:16 INFO  time: compiled root in 0.95s[0m
+[0m2021.11.23 17:05:26 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 17:05:26 INFO  time: compiled root in 0.94s[0m
+[0m2021.11.23 17:09:05 INFO  compiling root (1 scala source)[0m
+[0m2021.11.23 17:09:06 INFO  time: compiled root in 1.11s[0m
+Nov 23, 2021 5:09:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Nov 23, 2021 5:09:17 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
