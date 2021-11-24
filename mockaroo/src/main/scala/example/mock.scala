@@ -39,20 +39,20 @@ def getRestContent(url: String): String = {
     val apiKey = "2f9538c0"
 
     // Arrays of strings for each document
-    val recruiterStr = getRestContent(s"https://my.api.mockaroo.com/Recruiters?key=$apiKey").split("\n").toSeq
-    val qlStr = getRestContent(s"https://my.api.mockaroo.com/Qualified_Lead?key=$apiKey").split("\n").toSeq
-    val screenerStr = getRestContent(s"https://my.api.mockaroo.com/Screeners?key=$apiKey").split("\n").toSeq
-    val offerStr = getRestContent(s"https://my.api.mockaroo.com/Offers?key=$apiKey").split("\n").toSeq
-    val sceeningStr = getRestContent(s"https://my.api.mockaroo.com/Screening?key=$apiKey").split("\n").toSeq
-    val caStr = getRestContent(s"https://my.api.mockaroo.com/Contact_Attempts?key=$apiKey").split("\n").toSeq
+    val recruiterArr = getRestContent(s"https://my.api.mockaroo.com/Recruiters?key=$apiKey").split("\n")
+    val qlArr = getRestContent(s"https://my.api.mockaroo.com/Qualified_Lead?key=$apiKey").split("\n")
+    val screenerArr = getRestContent(s"https://my.api.mockaroo.com/Screeners?key=$apiKey").split("\n")
+    val offerArr = getRestContent(s"https://my.api.mockaroo.com/Offers?key=$apiKey").split("\n")
+    val sceeningArr = getRestContent(s"https://my.api.mockaroo.com/Screening?key=$apiKey").split("\n")
+    val caArr = getRestContent(s"https://my.api.mockaroo.com/Contact_Attempts?key=$apiKey").split("\n")
 
     //Checking
-    recruiterStr.foreach(println)
-    qlStr.foreach(println)
-    screenerStr.foreach(println)
-    offerStr.foreach(println)
-    sceeningStr.foreach(println)
-    caStr.foreach(println)
+    recruiterArr.foreach(println)
+    qlArr.foreach(println)
+    screenerArr.foreach(println)
+    offerArr.foreach(println)
+    sceeningArr.foreach(println)
+    caArr.foreach(println)
 
   }
 }
