@@ -12772,3 +12772,19 @@ No more data in the server stdin, exiting...[0m2021.11.24 12:13:18 INFO  Shut d
 [0m2021.11.24 17:39:09 INFO  compiling root (1 scala source)[0m
 [0m2021.11.24 17:39:08 WARN  unsupported Scala 2.11.8[0m
 [0m2021.11.24 17:39:09 INFO  time: compiled root in 0.66s[0m
+[0m2021.11.24 17:44:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:44:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:45:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:45:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:45:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:45:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:45:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:45:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:45:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:45:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:45:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:45:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:45:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:45:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:45:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:45:57 WARN  unsupported Scala 2.11.8[0m
