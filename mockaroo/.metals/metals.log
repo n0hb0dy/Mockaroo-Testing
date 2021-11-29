@@ -12788,3 +12788,1637 @@ No more data in the server stdin, exiting...[0m2021.11.24 12:13:18 INFO  Shut d
 [0m2021.11.24 17:45:55 WARN  unsupported Scala 2.11.8[0m
 [0m2021.11.24 17:45:57 WARN  unsupported Scala 2.11.8[0m
 [0m2021.11.24 17:45:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:46:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:49:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:49:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:50:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:50:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:50:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:50:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:50:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:50:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:50:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:50:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:51:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:51:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:51:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:53:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:53:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:54:43 INFO  compiling root (1 scala source)[0m
+[0m2021.11.24 17:54:43 INFO  time: compiled root in 0.74s[0m
+[0m2021.11.24 17:54:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:54:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:54:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:57:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:57:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:57:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:57:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:57:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:58:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:58:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:58:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:58:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:58:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:58:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 17:58:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 18:00:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 18:00:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.24 18:57:42 INFO  shutting down Metals[0m
+[0m2021.11.24 18:57:42 INFO  Shut down connection with build server.[0m
+[0m2021.11.24 18:57:42 INFO  Shut down connection with build server.[0m
+[0m2021.11.29 10:12:37 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo' for client Visual Studio Code 1.62.3.[0m
+[0m2021.11.29 10:12:38 INFO  time: initialize in 0.42s[0m
+[0m2021.11.29 10:12:37 INFO  Attempting to connect to the build server...[0m
+[0m2021.11.29 10:12:38 INFO  skipping build import with status 'Installed'[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 42698'...
+Waiting for the bsp connection to come up...
+[0m2021.11.29 10:12:38 INFO  shutting down Metals[0m
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+[0m2021.11.29 10:12:41 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+Waiting for the bsp connection to come up...
+Waiting for the bsp connection to come up...
+[0m2021.11.29 11:04:07 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo' for client Visual Studio Code 1.62.3.[0m
+[0m2021.11.29 11:04:07 INFO  time: initialize in 0.35s[0m
+[0m2021.11.29 11:04:12 INFO  Attempting to connect to the build server...[0m
+[0m2021.11.29 11:04:12 INFO  skipping build import with status 'Installed'[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 28927'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:28927...
+The server is listening for incoming connections at tcp://127.0.0.1:28927...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.11.29 11:04:13 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\98jjm\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2021.11.29 11:04:13 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 40154'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:40154...
+The server is listening for incoming connections at tcp://127.0.0.1:40154...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.11.29 11:04:13 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\98jjm\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2021.11.29 11:04:13 INFO  time: Connected to build server in 1.77s[0m
+[0m2021.11.29 11:04:13 INFO  Connected to Build server: Bloop v1.4.11[0m
+[0m2021.11.29 11:04:14 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2021.11.29 11:04:14 INFO  time: code lens generation in 2.41s[0m
+[0m2021.11.29 11:04:15 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2021.11.29 11:04:16 INFO  time: code lens generation in 4.41s[0m
+[0m2021.11.29 11:04:16 INFO  time: code lens generation in 4.41s[0m
+[0m2021.11.29 11:04:16 INFO  time: code lens generation in 4.42s[0m
+[0m2021.11.29 11:04:21 INFO  time: indexed workspace in 6.48s[0m
+[0m2021.11.29 11:04:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:04:22 INFO  no build target: using presentation compiler with only scala-library: 2.12.14[0m
+[0m2021.11.29 11:04:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:05:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:05:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:06:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:06:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:07:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:07:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:08:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:08:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:08:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:08:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:08:13 WARN  unsupported Scala 2.11.8[0m
+Nov 29, 2021 11:09:06 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+[0m2021.11.29 11:09:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:10:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:10:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:10:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:10:09 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\api.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.11.29 11:10:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:12:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:12:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:12:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:12:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:12:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:12:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:12:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:13:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:13:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:13:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:13:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:13:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:13:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:13:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:13:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:13:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:13:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:13:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:13:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:13:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:13:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:13:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:13:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:13:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:13:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:13:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:13:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:13:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:13:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:13:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:13:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:14:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:15:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:15:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:15:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:15:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:15:03 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:15:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:15:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:15:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:15:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:15:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:15:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:15:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:15:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:15:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:15:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:16:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:17:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:17:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:18:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:18:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:18:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:18:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:19:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:19:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:19:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:19:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:19:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:19:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:19:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:19:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:19:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:19:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:19:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:20:03 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:20:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:20:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:20:08 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:20:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:21:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:22:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:22:16 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:22:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:22:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:22:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:22:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:22:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:22:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:22:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:22:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:22:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:22:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:22:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:22:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:22:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:23:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:23:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:23:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:23:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:23:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:23:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:23:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:23:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:23:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:23:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:23:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:23:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:23:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:23:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:23:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:23:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:23:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:23:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:23:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:23:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:23:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:23:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:23:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:23:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:23:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:23:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:24:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:24:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:24:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:24:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:24:06 INFO  compiling root (1 scala source)[0m
+[0m2021.11.29 11:24:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:24:08 INFO  time: compiled root in 2.25s[0m
+[0m2021.11.29 11:24:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:24:16 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:24:16 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:24:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:24:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:24:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:24:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:24:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:25:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:25:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:25:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:25:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:25:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:25:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:25:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:25:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:25:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:25:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:25:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:25:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:25:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:25:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:25:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:25:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:25:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:25:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:25:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:25:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:26:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:26:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:26:03 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:26:03 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:26:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:26:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:26:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:26:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:26:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:26:41 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:26:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:26:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:26:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:26:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:26:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:26:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:26:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:26:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:26:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:26:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:26:59 INFO  skipping build import with status 'Installed'[0m
+[0m2021.11.29 11:27:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:27:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:27:01 WARN  unsupported Scala 2.11.8[0m
+Nov 29, 2021 11:27:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 636
+[0m2021.11.29 11:27:03 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:27:03 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:27:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:27:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:28:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:28:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:28:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:28:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:28:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:29:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:30:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:03 INFO  compiling root (1 scala source)[0m
+[0m2021.11.29 11:31:03 INFO  time: compiled root in 0.98s[0m
+[0m2021.11.29 11:31:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:41 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:41 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:31:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:32:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:32:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:32:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:32:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:32:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:32:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:33:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:33:30 WARN  unsupported Scala 2.11.8[0m
+Nov 29, 2021 11:33:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 754
+[0m2021.11.29 11:34:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:34:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:34:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:34:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:34:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:35:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:35:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:35:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:35:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:35:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:35:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:35:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:35:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:35:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:35:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:35:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:37:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:37:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:37:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:37:08 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:37:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:37:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:37:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:37:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:37:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:37:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:37:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:37:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:37:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:37:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:37:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:37:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:37:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:37:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:37:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:37:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:37:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:37:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:37:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:37:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:37:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:37:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:38:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:38:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:38:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:38:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:38:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:38:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:38:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:38:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:38:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:38:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:38:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:38:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:38:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:38:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:38:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:38:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:38:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:38:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:38:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:38:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:38:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:38:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:38:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:38:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:38:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:38:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:38:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:38:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:38:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:38:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:38:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:38:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:39:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:39:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:39:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:39:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:39:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:39:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:39:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:39:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:39:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:39:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:39:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:39:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:39:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:39:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:39:10 INFO  compiling root (1 scala source)[0m
+[0m2021.11.29 11:39:10 INFO  time: compiled root in 0.77s[0m
+[0m2021.11.29 11:39:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:39:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:39:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:39:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:39:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:39:41 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:39:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:39:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:39:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:39:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:39:54 INFO  compiling root (1 scala source)[0m
+[0m2021.11.29 11:39:54 INFO  time: compiled root in 0.6s[0m
+[0m2021.11.29 11:39:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:39:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:40:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:40:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:40:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:40:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:40:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:40:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:40:08 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:40:17 INFO  compiling root (1 scala source)[0m
+[0m2021.11.29 11:40:17 INFO  time: compiled root in 0.68s[0m
+[0m2021.11.29 11:40:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:40:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:40:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:40:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:40:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:40:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:40:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:40:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:40:51 INFO  compiling root (1 scala source)[0m
+[0m2021.11.29 11:40:51 INFO  time: compiled root in 0.6s[0m
+[0m2021.11.29 11:40:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:41:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:41:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:41:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:41:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:41:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:41:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:41:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:41:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:41:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:41:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:41:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:41:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:41:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:41:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:41:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:41:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:41:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:41:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:41:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:41:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:41:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:41:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:41:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:41:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:41:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:41:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:41:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:41:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:42:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:42:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:42:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:42:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:42:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:42:06 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\api.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.11.29 11:42:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:42:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:42:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:42:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:42:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:42:07 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\api.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.11.29 11:42:08 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:42:08 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:42:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:42:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:42:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:42:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:42:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:42:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:42:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:42:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:42:40 WARN  unsupported Scala 2.11.8[0m
+Nov 29, 2021 11:42:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: java.lang.reflect.InvocationTargetException
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.request(GenericEndpoint.java:120)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleRequest(RemoteEndpoint.java:261)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:190)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.GeneratedMethodAccessor3.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.lang.IllegalArgumentException: 89 is not a valid line number, allowed [0..75]
+	at scala.meta.internal.inputs.InternalInput.lineToOffset(InternalInput.scala:37)
+	at scala.meta.internal.inputs.InternalInput.lineToOffset$(InternalInput.scala:32)
+	at scala.meta.inputs.Input$VirtualFile.lineToOffset(Input.scala:80)
+	at scala.meta.inputs.Position$Range$.apply(Position.scala:59)
+	at scala.meta.internal.mtags.MtagsEnrichments$XtensionPositionLspInverse.toMeta(MtagsEnrichments.scala:133)
+	at scala.meta.internal.parsing.Trees.$anonfun$findLastEnclosingAt$4(Trees.scala:77)
+	at scala.Option.flatMap(Option.scala:271)
+	at scala.meta.internal.parsing.Trees.findLastEnclosingAt(Trees.scala:76)
+	at scala.meta.internal.metals.codeactions.PatternMatchRefactor.contribute(PatternMatchRefactor.scala:96)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:62)
+	at scala.meta.internal.metals.CodeActionProvider$$anonfun$1.applyOrElse(CodeActionProvider.scala:61)
+	at scala.collection.immutable.List.collect(List.scala:323)
+	at scala.meta.internal.metals.CodeActionProvider.codeActions(CodeActionProvider.scala:61)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$codeAction$1(MetalsLanguageServer.scala:1555)
+	at scala.meta.internal.metals.CancelTokens$.future(CancelTokens.scala:38)
+	at scala.meta.internal.metals.MetalsLanguageServer.codeAction(MetalsLanguageServer.scala:1554)
+	... 15 more
+
+[0m2021.11.29 11:42:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:42:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:42:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:42:53 WARN  unsupported Scala 2.11.8[0m
+Nov 29, 2021 11:42:53 AM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+Nov 29, 2021 11:42:53 AM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: null
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:417)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:140)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:113)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:102)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:158)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:960)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:808)
+	at scala.meta.internal.pc.SignatureHelpProvider.signatureHelp(SignatureHelpProvider.scala:23)
+
+[0m2021.11.29 11:42:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:42:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:42:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:42:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:42:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:16 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:50 INFO  compiling root (1 scala source)[0m
+[0m2021.11.29 11:43:50 INFO  time: compiled root in 0.55s[0m
+[0m2021.11.29 11:43:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:43:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:03 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:05 WARN  unsupported Scala 2.11.8[0m
+Nov 29, 2021 11:44:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1376
+[0m2021.11.29 11:44:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:44:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:45:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:45:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:45:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:45:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:45:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:45:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:45:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:45:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:45:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:26 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\api.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.11.29 11:46:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:27 INFO  compiling root (1 scala source)[0m
+[0m2021.11.29 11:46:26 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\api.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.11.29 11:46:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:27 INFO  time: compiled root in 0.7s[0m
+[0m2021.11.29 11:46:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:46:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:48:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:48:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:48:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:48:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:50:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:56:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:56:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:57:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:57:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:57:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:57:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:57:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:57:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:57:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:57:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:57:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:57:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:57:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:57:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:57:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:57:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:57:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:58:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:58:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:58:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:58:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:58:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:58:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:58:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:58:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:58:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:58:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:58:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:58:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:58:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:58:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:58:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:58:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:58:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:58:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 11:58:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:09:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:09:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:10:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:10:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:10:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:10:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:10:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:10:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:10:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:10:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:10:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:10:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:10:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:10:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:10:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:10:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:10:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:10:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:10:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:11:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:11:08 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:11:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:11:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:11:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:11:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:11:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:11:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:11:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:11:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:11:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:13:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:13:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:14:41 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:14:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:14:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:14:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:14:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:14:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:23:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:23:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:23:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:32:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:32:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:32:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:37:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:38:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:43:34 INFO  compiling root (1 scala source)[0m
+[0m2021.11.29 12:43:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:43:35 INFO  time: compiled root in 1.11s[0m
+[0m2021.11.29 12:46:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:46:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:46:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:46:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:46:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:48:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:54:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:54:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:54:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:54:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:55:13 INFO  compiling root (1 scala source)[0m
+[0m2021.11.29 12:55:13 INFO  time: compiled root in 0.7s[0m
+[0m2021.11.29 12:55:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:55:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:55:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:55:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:55:45 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\api.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.11.29 12:55:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:55:46 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\api.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.11.29 12:55:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:55:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:56:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:56:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:56:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:56:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:57:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:57:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:57:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:57:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:57:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:57:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:57:16 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:57:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:57:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:57:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:57:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:57:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:57:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:57:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:57:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:57:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:57:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:57:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:57:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:58:03 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:58:26 INFO  compiling root (1 scala source)[0m
+[0m2021.11.29 12:58:26 INFO  time: compiled root in 0.78s[0m
+[0m2021.11.29 12:58:30 WARN  unsupported Scala 2.11.8[0m
+Nov 29, 2021 12:58:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1839
+[0m2021.11.29 12:59:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:59:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:59:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:59:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:59:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:59:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:59:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:59:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:59:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:59:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:59:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:59:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:59:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:59:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:59:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 12:59:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:01:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:01:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:01:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:01:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:01:37 WARN  unsupported Scala 2.11.8[0m
+Nov 29, 2021 1:01:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1874
+[0m2021.11.29 13:01:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:01:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:01:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:02:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:02:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:02:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:02:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:02:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:02:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:02:08 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:02:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:02:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:02:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:02:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:02:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:02:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:02:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:02:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:02:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:02:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:02:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:02:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:14 INFO  compiling root (1 scala source)[0m
+[0m2021.11.29 13:03:14 INFO  time: compiled root in 0.43s[0m
+[0m2021.11.29 13:03:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:16 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:26 WARN  unsupported Scala 2.11.8[0m
+Nov 29, 2021 1:03:43 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2000
+[0m2021.11.29 13:03:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:03:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:14 WARN  unsupported Scala 2.11.8[0m
+Nov 29, 2021 1:04:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2028
+[0m2021.11.29 13:04:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:41 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:41 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:04:48 INFO  compiling root (1 scala source)[0m
+[0m2021.11.29 13:04:48 INFO  time: compiled root in 0.59s[0m
+Nov 29, 2021 1:04:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2066
+[0m2021.11.29 13:05:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:05:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:05:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:05:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:06:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:07:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:08:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:09:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:10:08 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:11:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:40:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:41:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:41:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:41:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:41:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:41:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:43:08 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:43:08 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:43:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:43:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:43:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:43:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:43:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:43:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:43:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:43:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:43:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:43:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:43:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:43:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:43:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:43:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:43:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:43:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:43:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:43:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:44:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:44:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:44:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:44:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:45:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:46:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:56:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:56:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:57:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:57:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:57:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:57:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:57:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:57:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:57:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:57:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:57:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:57:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:57:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:57:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:59:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:59:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:59:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 13:59:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:00:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:00:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:00:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:00:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:00:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:00:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:00:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:01:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:01:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:01:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:01:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:01:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:01:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:01:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:01:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:01:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:01:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:01:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:01:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:01:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:01:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:01:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:01:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:01:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:01:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:01:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:01:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:01:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:01:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:01:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:01:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:01:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:01:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:01:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:01:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:03 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:03 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:08 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:08 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:08 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:16 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:16 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:02:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:03:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:03:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:03:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:03:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:03:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:03:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:04:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:04:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:04:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:05:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:05:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:05:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:05:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:05:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:05:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:05:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:05:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:05:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:05:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:05:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:06:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:07:27 INFO  compiling root (1 scala source)[0m
+Exception in thread "pool-1-thread-183" java.lang.OutOfMemoryError: unable to create new native thread
+	at java.lang.Thread.start0(Native Method)
+	at java.lang.Thread.start(Thread.java:717)
+	at java.util.concurrent.ThreadPoolExecutor.addWorker(ThreadPoolExecutor.java:957)
+	at java.util.concurrent.ThreadPoolExecutor.processWorkerExit(ThreadPoolExecutor.java:1025)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1167)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+java.lang.IllegalStateException: Promise already completed.
+	at scala.concurrent.Promise.complete(Promise.scala:53)
+	at scala.concurrent.Promise.complete$(Promise.scala:52)
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:187)
+	at scala.concurrent.Promise.failure(Promise.scala:104)
+	at scala.concurrent.Promise.failure$(Promise.scala:104)
+	at scala.concurrent.impl.Promise$DefaultPromise.failure(Promise.scala:187)
+	at scala.concurrent.impl.Promise.$anonfun$transformWith$1(Promise.scala:45)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+java.lang.IllegalStateException: Promise already completed.
+	at scala.concurrent.Promise.complete(Promise.scala:53)
+	at scala.concurrent.Promise.complete$(Promise.scala:52)
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:187)
+	at scala.concurrent.Promise.failure(Promise.scala:104)
+	at scala.concurrent.Promise.failure$(Promise.scala:104)
+	at scala.concurrent.impl.Promise$DefaultPromise.failure(Promise.scala:187)
+	at scala.concurrent.impl.Promise.$anonfun$transformWith$1(Promise.scala:45)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[0m2021.11.29 14:07:27 INFO  time: compiled root in 0.82s[0m
+[0m2021.11.29 14:07:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:07:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:07:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:07:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:07:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:07:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:08:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:08:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:08:58 WARN  unsupported Scala 2.11.8[0m
+Nov 29, 2021 2:09:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3152
+[0m2021.11.29 14:09:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:09:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:09:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:09:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:09:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:09:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:09:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:09:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:09:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:09:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:09:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:09:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:09:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:09:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:09:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:09:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:09:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:09:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:09:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:09:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:09:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:09:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:09:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:11:03 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:11:03 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:11:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:11:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:11:12 INFO  compiling root (1 scala source)[0m
+[0m2021.11.29 14:11:12 INFO  time: compiled root in 0.75s[0m
+[0m2021.11.29 14:11:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:11:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:11:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:12:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:12:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:12:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:12:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:12:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:12:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:12:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:12:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:12:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:12:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:12:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:12:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:12:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:12:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:12:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:12:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:12:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:12:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:12:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:12:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:12:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:12:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:13:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:13:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:13:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:13:16 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:13:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:13:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:13:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:13:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:13:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:13:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:13:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:13:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:13:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:13:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:13:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:14:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:14:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:14:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:14:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:14:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:14:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:14:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:14:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:14:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:14:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:14:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:14:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:14:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:14:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:14:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:15:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:15:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:15:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:15:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:15:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:15:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:15:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:15:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:15:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:16:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:17:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:17:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:17:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:17:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:17:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:17:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:17:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:17:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:17:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:17:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:19:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:19:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:19:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:19:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:19:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:19:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:19:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:19:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:19:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:19:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:19:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:19:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:19:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:19:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:15 INFO  compiling root (1 scala source)[0m
+[0m2021.11.29 14:21:15 INFO  time: compiled root in 0.65s[0m
+[0m2021.11.29 14:21:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:41 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:21:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:03 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:03 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:08 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:08 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:13 INFO  compiling root (1 scala source)[0m
+[0m2021.11.29 14:22:13 INFO  time: compiled root in 0.53s[0m
+[0m2021.11.29 14:22:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:35 INFO  compiling root (1 scala source)[0m
+[0m2021.11.29 14:22:35 INFO  time: compiled root in 0.44s[0m
+[0m2021.11.29 14:22:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:41 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:22:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:24:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:24:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:24:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:24:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:24:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:24:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:24:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:25:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:25:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:25:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:25:05 WARN  unsupported Scala 2.11.8[0m
+Nov 29, 2021 2:25:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3834
+[0m2021.11.29 14:26:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:26:03 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:26:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:26:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:26:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:26:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:26:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:26:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:26:41 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:26:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:26:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:26:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:26:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:28:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:28:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:28:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:28:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:28:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:28:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:28:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:28:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:28:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:29:23 INFO  compiling root (1 scala source)[0m
+[0m2021.11.29 14:29:23 INFO  time: compiled root in 0.6s[0m
+[0m2021.11.29 14:29:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:29:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:16 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:16 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:16 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:24 INFO  compiling root (1 scala source)[0m
+[0m2021.11.29 14:30:24 INFO  time: compiled root in 0.55s[0m
+[0m2021.11.29 14:30:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:41 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:30:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:31:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:31:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:31:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:31:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:31:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:31:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:31:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:31:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:31:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:32:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:32:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:34:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:34:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:38:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:38:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:38:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:38:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:38:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:38:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:39:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:39:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:39:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:39:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:39:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:39:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:39:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:39:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:39:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:39:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:39:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:39:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:39:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:39:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:39:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:39:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:39:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:39:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:39:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:39:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:39:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:39:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:39:46 INFO  compiling root (1 scala source)[0m
+[0m2021.11.29 14:39:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:39:46 INFO  time: compiled root in 0.94s[0m
+[0m2021.11.29 14:39:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:39:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:39:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:39:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:39:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:39:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:43:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:43:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:43:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:43:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:43:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:43:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:43:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:43:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:43:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:43:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:43:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:44:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:44:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:44:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:44:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:44:08 INFO  compiling root (1 scala source)[0m
+[0m2021.11.29 14:44:08 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:44:08 INFO  time: compiled root in 0.76s[0m
+[0m2021.11.29 14:44:08 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:44:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:44:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:48:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:49:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:49:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:49:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:49:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:49:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:49:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:49:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:49:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:50:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:50:30 INFO  compiling root (1 scala source)[0m
+[0m2021.11.29 14:50:30 INFO  time: compiled root in 0.88s[0m
+[0m2021.11.29 14:56:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:56:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:58:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:58:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:58:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:58:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:58:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:58:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:58:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:58:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:58:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:58:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:58:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:58:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:58:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:58:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:58:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:58:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:58:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:58:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 14:58:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.11.29 15:01:08 WARN  unsupported Scala 2.11.8[0m
