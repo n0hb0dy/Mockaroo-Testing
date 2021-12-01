@@ -9,6 +9,12 @@ import org.apache.http.impl.client.DefaultHttpClient
 
 object Api {
 
+
+    var tmpStr1 = """ id: 0, name: jj, lname: mer"""
+    var tmpStr = tmpStr1 + "\n" +tmpStr1 + "\n" +tmpStr1+"\n" + tmpStr1;
+    
+
+
     /**
       * 
       *
@@ -43,18 +49,33 @@ object Api {
 
     // Calls to Mockaroo API to generate mock data
     
-    def recruiterData(): Array[String] =    getRestContent(s"https://my.api.mockaroo.com/Recruiters?key=$apiKey").split("},")
+    // def recruiterData(): Array[String] =    getRestContent(s"https://my.api.mockaroo.com/Recruiters?key=$apiKey").split("},")
 
-    def qlData(): Array[String] =           getRestContent(s"https://my.api.mockaroo.com/Qualified_Lead?key=$apiKey").split("},")
+    // def qlData(): Array[String] =           getRestContent(s"https://my.api.mockaroo.com/Qualified_Lead?key=$apiKey").split("},")
 
-    def screenerData(): Array[String] =     getRestContent(s"https://my.api.mockaroo.com/Screeners?key=$apiKey").split("},")
+    // def screenerData(): Array[String] =     getRestContent(s"https://my.api.mockaroo.com/Screeners?key=$apiKey").split("},")
 
-    def offerData(): Array[String] =        getRestContent(s"https://my.api.mockaroo.com/Offers?key=$apiKey").split("},")
+    // def offerData(): Array[String] =        getRestContent(s"https://my.api.mockaroo.com/Offers?key=$apiKey").split("},")
 
-    def screeningData(): Array[String] =    getRestContent(s"https://my.api.mockaroo.com/Screening?key=$apiKey").split("},")
+    // def screeningData(): Array[String] =    getRestContent(s"https://my.api.mockaroo.com/Screening?key=$apiKey").split("},")
 
-    def caData(): Array[String] =           getRestContent(s"https://my.api.mockaroo.com/Contact_Attempts?key=$apiKey").split("},")
+    // def caData(): Array[String] =           getRestContent(s"https://my.api.mockaroo.com/Contact_Attempts?key=$apiKey").split("},")
 
-    def qlBIGData(): Array[String] =        getRestContent(s"https://my.api.mockaroo.com/Qualified_Lead_Big_Table?key=$apiKey").split("},")
+    // def qlBIGData(): Array[String] =        getRestContent(s"https://my.api.mockaroo.com/Qualified_Lead_Big_Table?key=$apiKey").split("},")
+
+//////
+    def recruiterData(): Array[String] =    tmpStr.split("\n");
+
+    def qlData(): Array[String] =           tmpStr.split("\n");
+
+    def screenerData(): Array[String] =     tmpStr.split("\n");
+
+    def offerData(): Array[String] =        tmpStr.split("\n");
+
+    def screeningData(): Array[String] =    tmpStr.split("\n");
+
+    def caData(): Array[String] =           tmpStr.split("\n");
+
+    def qlBIGData(): Array[String] =        tmpStr.split("\n");
 
 }
