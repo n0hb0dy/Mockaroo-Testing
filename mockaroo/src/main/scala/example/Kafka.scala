@@ -28,8 +28,6 @@ object Kafka {
 
   /** ADT Sum Type Structure for each API call for each Topic
     *
-    * Companion Singleton Object to mainly keep track of ID's - statically among
-    * all the objects
     *
     * sealed trait msgTypes 
       case class Recruiters extends msgTypes 
@@ -121,17 +119,7 @@ object Kafka {
       msgData = recruiterData()
     }
   }
-
-  case class QualifiedLead() extends msgTypes {
-
-    override val topicName = "Qualified_Lead"
-
-    override def loadNewData(): Unit = {
-      msgData = qlData()
-    }
-
-  }
-
+  
   case class Screeners() extends msgTypes {
 
     override val topicName = "Screeners"
@@ -150,6 +138,26 @@ object Kafka {
       msgCounter += 1
 
       returnStr
+    }
+
+  }
+
+  case class QualifiedLead() extends msgTypes {
+
+    override val topicName = "Qualified_Lead"
+
+    override def loadNewData(): Unit = {
+      msgData = qlData()
+    }
+
+  }
+
+  case class ContactAttempts() extends msgTypes {
+
+    override val topicName = "Contact_Attempts"
+
+    override def loadNewData(): Unit = {
+      msgData = caData()
     }
 
   }
@@ -174,15 +182,7 @@ object Kafka {
 
   }
 
-  case class ContactAttempts() extends msgTypes {
 
-    override val topicName = "Contact_Attempts"
-
-    override def loadNewData(): Unit = {
-      msgData = caData()
-    }
-
-  }
 
   val qlHandler = new QualifiedLead()
   val caHandler = new ContactAttempts()
