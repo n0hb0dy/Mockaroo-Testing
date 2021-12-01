@@ -24253,3 +24253,13 @@ WARNING: Unmatched cancel notification for request id 12828
 [0m2021.12.01 17:09:15 WARN  unsupported Scala 2.11.8[0m
 [0m2021.12.01 17:09:16 INFO  compiling root (1 scala source)[0m
 [0m2021.12.01 17:09:17 INFO  time: compiled root in 1.29s[0m
+[0m2021.12.01 17:09:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.01 17:09:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.01 17:09:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.01 17:10:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.01 17:10:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.01 17:10:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.01 17:10:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.01 17:10:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.01 17:10:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.01 17:10:58 WARN  unsupported Scala 2.11.8[0m
