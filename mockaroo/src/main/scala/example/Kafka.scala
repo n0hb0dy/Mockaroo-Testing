@@ -26,43 +26,70 @@ object Kafka {
 
   var totalMsgCounter = 0
 
-  
   /** ADT Sum Type Structure for each API call for each Topic
-    * 
-    * Companion Singleton Object to mainly keep track of ID's -
-    * statically among all the objects
+    *
+    * Companion Singleton Object to mainly keep track of ID's - statically among
+    * all the objects
     *
     * sealed trait msgTypes 
-    * case class Recruiters extends msgTypes 
-    * case class QualifiedLead extends msgTypes 
-    * case class ContactAttempts extends msgTypes
-    * case class Screening extends msgTypes 
-    * case class Offers extends msgTypes
-    * case class Screeners extends msgTypes
+      case class Recruiters extends msgTypes 
+      case class Screeners extends msgTypes 
+      case class QualifiedLead extends msgTypes 
+      case class ContactAttempts extends msgTypes 
+      case class Screening extends msgTypes 
+      case class Offers extends msgTypes
+    *
+    * Names for the Topics: 
+      "Recruiters" 
+      "Screeners"
+      "Qualified_Lead"    * 
+      "Contact_Attempts"  *
+      "Screening"         * 
+      "Offers"            * 
+    *
     * 
-    * 
-    * Names for the Topics:
-        "Recruiters"            
-        "Qualified_Lead"        *
-        "Contact_Attempts"      *
-        "Screening"             *
-        "Offers"                *
-        "Screeners"             
     */
   sealed trait msgTypes {
 
     protected val topicName = "NaN"
+    protected var id: Int = 0
+    protected var msgCounter: Int = 0
+    protected var msgData: Array[String] = Array[String]()
 
     def loadNewData(): Unit = ???
 
-    def messageGenerator(): String = ???
-    def messageGenerator(qlHand: QualifiedLead): String = ???
+    def messageGenerator(): String = {
+      if (this.msgCounter < this.msgData.length) {
+        this.loadNewData()
+        this.msgCounter = 0
+      }
+      val returnStr = this.msgData(this.msgCounter)
+        .replace("\"id\":1", "\"id\":" + this.id)
+
+      msgCounter += 1
+
+      returnStr
+    }
+
+    def messageGenerator(qlHand: QualifiedLead): String = {
+      if (this.msgCounter < this.msgData.length) {
+        this.loadNewData()
+        this.msgCounter = 0
+      }
+      val returnStr = this.msgData(this.msgCounter)
+        //.replace("\"id\":1", "\"id\":" + this.id)
+        .replace("\"ql_id\":1", "\"ql_id\":" + qlHand.id)
+
+      this.msgCounter += 1
+
+      returnStr
+    }
 
     def sendMessage(): Unit = {
       val msg = new ProducerRecord[String, String](
         this.topicName,
         totalMsgCounter.toString,
-        this.messageGenerator()
+        this.messageGenerator
       )
 
       val meta = producer.send(msg);
@@ -77,76 +104,36 @@ object Kafka {
         this.messageGenerator(qlHand)
       )
 
-      
       val meta = producer.send(msg);
 
       totalMsgCounter += 1
     }
 
   }
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
   case class Recruiters() extends msgTypes {
 
-    var recruitersID = 0
-    var msgCounter = 0 
-    var msgData = recruiterData()
     override val topicName = "Recruiters"
 
     override def loadNewData(): Unit = {
       msgData = recruiterData()
     }
-
-    override def messageGenerator(): String = {
-        if(msgCounter < msgData.length) {    //guards against out-of-bounds
-            loadNewData()
-            msgCounter = 0
-        }
-        val returnStr = msgData(msgCounter)
-        .replace("\"id\":1", "\"id\":" + recruitersID)
-
-        msgCounter += 1
-
-        returnStr
-    }
-
   }
 
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
   case class QualifiedLead() extends msgTypes {
-    
-    var qlID = 0
-    var msgCounter = 0
-    var msgData = qlData()
+
     override val topicName = "Qualified_Lead"
 
     override def loadNewData(): Unit = {
       msgData = qlData()
     }
 
-    override def messageGenerator(): String = {
-        if(msgCounter < msgData.length){
-            loadNewData()
-            msgCounter = 0
-        }
-        val returnStr = msgData(msgCounter)
-        .replace("\"id\":1", "\"id\":" + qlID)
-
-      msgCounter += 1
-
-      returnStr
-    }
-
   }
 
-  object QualifiedLead {
+  case class Screeners() extends msgTypes {
 
-  }
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-    case class Screeners() extends msgTypes {
-
-    var screenerID = 0
-    var msgCounter = 0
-    var msgData = screenerData()
     override val topicName = "Screeners"
 
     override def loadNewData(): Unit = {
@@ -154,11 +141,11 @@ object Kafka {
     }
 
     override def messageGenerator(): String = {
-        if(msgCounter < msgData.length){
-            loadNewData()
-            msgCounter = 0
-        }
-        val returnStr = msgData(msgCounter)
+      if (msgCounter < msgData.length) {
+        loadNewData()
+        msgCounter = 0
+      }
+      val returnStr = msgData(msgCounter)
 
       msgCounter += 1
 
@@ -167,84 +154,32 @@ object Kafka {
 
   }
 
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
   case class Screening() extends msgTypes {
 
-    var screeningID = 0
-    var msgCounter = 0
-    var msgData = screeningData()
     override val topicName = "Screening"
 
     override def loadNewData(): Unit = {
       msgData = screeningData()
     }
 
-    override def messageGenerator(qlHand: QualifiedLead): String = {
-        if(msgCounter < msgData.length) {
-            loadNewData()
-            msgCounter = 0
-        }
-        val returnStr = msgData(msgCounter)
-        .replace("\"ql_id\":1", "\"ql_id\":" + qlHand.qlID)
-
-      msgCounter += 1
-
-      returnStr
-    }
-
   }
 
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
   case class Offers() extends msgTypes {
 
-    var offerID = 0
-    var msgCounter = 0
-    var msgData = offerData()
     override val topicName = "Offers"
 
     override def loadNewData(): Unit = {
       msgData = offerData()
     }
 
-    override def messageGenerator(qlHand: QualifiedLead): String = {
-        if(msgCounter < msgData.length) {
-            loadNewData()
-            msgCounter = 0
-        }
-        val returnStr = msgData(msgCounter)
-        .replace("\"ql_id\":1", "\"ql_id\":" + qlHand.qlID)
-
-      msgCounter += 1
-
-      returnStr
-    }
-
   }
 
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-  
   case class ContactAttempts() extends msgTypes {
 
-    var caID = 0
-    var msgCounter = 0
-    var msgData = caData()
     override val topicName = "Contact_Attempts"
 
     override def loadNewData(): Unit = {
       msgData = caData()
-    }
-
-    override def messageGenerator(qlHand: QualifiedLead): String = {
-        if(msgCounter < msgData.length) { 
-            loadNewData()
-            msgCounter = 0
-        }
-        val returnStr = msgData(msgCounter)
-        .replace("\"ql_id\":1", "\"ql_id\":" + qlHand.qlID)
-
-      msgCounter += 1
-
-      returnStr
     }
 
   }
@@ -256,33 +191,38 @@ object Kafka {
   val screenersHandler = new Screeners()
 
 
+  qlHandler.loadNewData()
+  caHandler.loadNewData()
+  screeningHandler.loadNewData()
+  offersHandler.loadNewData()
+  screenersHandler.loadNewData()
 
-
-  /** @func msgStream
-    * Will output a set of messages to each topic
+  /** msgStream Will output a set of messages to each topic
     * 
-    * Gets the API data each time the function is called 
-    * 
-    * 
-    * @param numMsg
+    *
+    * case class have guards against running out of data
+    *
+    * @param numMsg = the number of messages sent to the topics in total
     */
   def msgStream(numMsg: Int): Unit = {
-
-    //val rand = scala.util.Random
 
     for (i <- 0 until numMsg) {
       println("We are at : " + totalMsgCounter)
 
-      qlHandler.sendMessage() // one qualified lead
-      caHandler.sendMessage() // random number of contact attempts
+      qlHandler.sendMessage()
+      caHandler.sendMessage()
 
       screeningHandler.sendMessage()
       offersHandler.sendMessage()
-
+      Thread.sleep(2000)
     }
-    Thread.sleep(1000)
   }
 }
+
+
+
+
+
 
 
 
@@ -300,16 +240,4 @@ object Kafka {
   * // def chanceNextMessage(typ: Int): Int = { // val rand = scala.util.Random
   * // val nextQ = rand.nextInt(100); // if(nextQ > 40) // return typ + 1; //
   * return typ // }
-  * 
-  * 
-  * 
-  * 
-  * 
-  * 
-  * 
-  * 
-  * 
-  * 
-  * 
-  * 
   */

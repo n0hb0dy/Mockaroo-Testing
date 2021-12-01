@@ -9,15 +9,16 @@ object mock extends App {
 
     val rand = scala.util.Random;
 
-    var stop = false; // Testing
-    while(!stop)
-    {
-        val msgNum = rand.nextInt(40) + 10; // Random number of msgs
-        msgStream(msgNum);
+    // var stop = false; // Testing
+    // while(!stop)
+    // {
+    //     val msgNum = rand.nextInt(40) + 10; // Random number of msgs
+    //     msgStream(msgNum);
         
-        // Testing
-        stop = scala.io.StdIn.readBoolean();        
-    }
+    //     // Testing
+    //     stop = scala.io.StdIn.readBoolean();        
+    // }
+    msgStream(10);      //Testing
     producer.close()
 
 }
