@@ -19622,3 +19622,62 @@ Starting thread that pumps server stdout and redirects it to the client stdout..
 [0m2021.12.01 11:12:12 WARN  unsupported Scala 2.11.8[0m
 [0m2021.12.01 11:12:13 INFO  no build target: using presentation compiler with only scala-library: 2.12.14[0m
 [0m2021.12.01 11:12:14 WARN  unsupported Scala 2.11.8[0m
+Dec 01, 2021 11:12:20 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+[0m2021.12.01 11:12:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.01 11:12:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.01 11:12:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.01 11:12:29 INFO  compiling root (2 scala sources)[0m
+[0m2021.12.01 11:12:29 INFO  time: compiled root in 0.61s[0m
+[0m2021.12.01 11:12:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.01 11:12:30 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 11:12:30 INFO  time: compiled root in 0.55s[0m
+[0m2021.12.01 11:12:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.01 11:12:39 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 11:12:39 INFO  time: compiled root in 0.69s[0m
+[0m2021.12.01 11:12:42 ERROR C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala
+java.nio.file.NoSuchFileException: C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:79)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:97)
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:102)
+	at sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:230)
+	at java.nio.file.Files.newByteChannel(Files.java:361)
+	at java.nio.file.Files.newByteChannel(Files.java:407)
+	at java.nio.file.Files.readAllBytes(Files.java:3152)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.mtags.CommonMtagsEnrichments$XtensionAbsolutePath.toInput(CommonMtagsEnrichments.scala:448)
+	at scala.meta.internal.metals.Docstrings.expireSymbolDefinition(Docstrings.scala:61)
+	at scala.meta.internal.metals.MetalsLanguageServer.indexSourceFile(MetalsLanguageServer.scala:2267)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$reindexWorkspaceSources$2(MetalsLanguageServer.scala:2200)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$reindexWorkspaceSources$2$adapted(MetalsLanguageServer.scala:2197)
+	at scala.collection.Iterator.foreach(Iterator.scala:943)
+	at scala.collection.Iterator.foreach$(Iterator.scala:943)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1431)
+	at scala.meta.internal.metals.MetalsLanguageServer.reindexWorkspaceSources(MetalsLanguageServer.scala:2197)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$onChange$2(MetalsLanguageServer.scala:1343)
+	at scala.runtime.java8.JFunction0$mcV$sp.apply(JFunction0$mcV$sp.java:23)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:659)
+	at scala.util.Success.$anonfun$map$1(Try.scala:255)
+	at scala.util.Success.map(Try.scala:213)
+	at scala.concurrent.Future.$anonfun$map$1(Future.scala:292)
+	at scala.concurrent.impl.Promise.liftedTree1$1(Promise.scala:33)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[0m
+[0m2021.12.01 11:12:42 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 11:12:42 INFO  time: compiled root in 0.95s[0m
+[0m2021.12.01 11:12:44 INFO  Deduplicating compilation of root from bsp client 'Metals 0.10.9' (since 39.699s)[0m
+[0m2021.12.01 11:12:44 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 11:12:44 INFO  compiling root (1 scala source)[0m
+[0m2021.12.01 11:12:45 INFO  time: compiled root in 0.65s[0m
+[0m2021.12.01 11:12:50 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.01 11:12:51 INFO  time: compiled root in 1.01s[0m
+[0m2021.12.01 11:12:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.01 11:13:02 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.01 11:13:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.01 11:13:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.01 11:13:03 INFO  time: compiled root in 1.25s[0m
