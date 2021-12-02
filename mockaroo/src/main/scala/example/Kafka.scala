@@ -128,17 +128,6 @@ object Kafka {
       msgData = screenerData()
     }
 
-    override def messageGenerator(): String = {
-      if (msgCounter < msgData.length) {
-        loadNewData()
-        msgCounter = 0
-      }
-      val returnStr = msgData(msgCounter)
-
-      msgCounter += 1
-
-      returnStr
-    }
 
   }
 
