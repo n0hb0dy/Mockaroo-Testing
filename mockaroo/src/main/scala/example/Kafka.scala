@@ -50,7 +50,7 @@ object Kafka {
   sealed trait msgTypes {
 
     protected val topicName = "NaN"
-    protected var id: Int = 0
+    protected var id: Int = 500
     protected var msgCounter: Int = 0
     protected var msgData: Array[String] = Array[String]()
 
@@ -65,6 +65,7 @@ object Kafka {
         .replace("\"id\":1", "\"id\":" + this.id)
 
       msgCounter += 1
+      this.id += 1;
 
       returnStr
     }
@@ -184,7 +185,7 @@ object Kafka {
   caHandler.loadNewData()
   screeningHandler.loadNewData()
   offersHandler.loadNewData()
-  screenersHandler.loadNewData()
+  // screenersHandler.loadNewData()
 
   /** msgStream Will output a set of messages to each topic
     * 
@@ -203,8 +204,8 @@ object Kafka {
 
       screeningHandler.sendMessage()
       offersHandler.sendMessage()
-      Thread.sleep(2000)
     }
+    Thread.sleep(2000) // After sending all messages, wait 2 secs
   }
 }
 
