@@ -24,7 +24,8 @@ object Kafka {
 
   val producer = new KafkaProducer[String, String](prodProps)
 
-  var totalMsgCounter = 0
+  var totalMsgCounter = 0;
+  var typeCounter = 0;
 
   /** ADT Sum Type Structure for each API call for each Topic
     *
@@ -79,6 +80,19 @@ object Kafka {
       this.id += 1
       this.msgCounter += 1
       totalMsgCounter += 1
+      if(this.topicName == "Qualified_Lead") {
+        typeCounter += 1; // Always lead to contact attempt
+        recruitersHandler.setID();
+        screenersHandler.setID();
+      }
+    }
+    def chance(): Unit = { // Decides to go to the next stage, later will decide to end completely
+      val rand = scala.util.Random;
+      var next = rand.nextInt(100);
+      if(next > 40)
+        typeCounter += 1;
+      if(typeCounter == 4)
+        typeCounter = 0;
     }
  
   }
@@ -92,6 +106,11 @@ object Kafka {
     override def loadNewData(): Unit = {
       msgData = recruiterData()
     }
+
+    def setID(): Unit = {
+      val rand = scala.util.Random;
+      this.id = rand.nextInt(100);
+    }
   }
   
   case class Screeners() extends msgTypes {
@@ -100,6 +119,10 @@ object Kafka {
 
     override def loadNewData(): Unit = {
       msgData = screenerData()
+    }
+    def setID(): Unit = {
+      val rand = scala.util.Random;
+      this.id = rand.nextInt(100) + 100;
     }
   }
 
@@ -146,6 +169,7 @@ object Kafka {
       this.id += 1
       this.msgCounter += 1
       totalMsgCounter += 1
+      chance();
     }
   }
 
@@ -183,6 +207,7 @@ object Kafka {
       this.id += 1
       this.msgCounter += 1
       totalMsgCounter += 1
+      chance();
     }
   }
 
@@ -223,24 +248,28 @@ object Kafka {
       this.id += 1
       this.msgCounter += 1
       totalMsgCounter += 1
+      chance();
     }
 
   }
 
 
-  val recruiterHandler = new Recruiters()
+  val recruitersHandler = new Recruiters()
   val qlHandler = new QualifiedLead()
   val caHandler = new ContactAttempts()
   val screeningHandler = new Screening()
   val offersHandler = new Offers()
   val screenersHandler = new Screeners()
 
-  recruiterHandler.loadNewData()
+  recruitersHandler.loadNewData()
   screenersHandler.loadNewData()
   qlHandler.loadNewData()
   caHandler.loadNewData()
   screeningHandler.loadNewData()
   offersHandler.loadNewData()
+
+  recruitersHandler.id += 1
+  screenersHandler.id += 101
 
   /** msgStream Will output a set of messages to each topic
     * 
@@ -249,23 +278,32 @@ object Kafka {
     *
     * @param numMsg = the number of messages sent to the topics in total
     */
+ 
+ //Sends Data into the Recruiter and Screener Topics
+  def msgStreamFirst(): Unit = {
+    
+    for (i <- 0 until 100) {
+      println("We are at : " + totalMsgCounter)
+
+      recruitersHandler.sendMessage() 
+      screenersHandler.sendMessage()
+    }
+  }
+ 
   def msgStream(numMsg: Int): Unit = {
 
     for (i <- 0 until numMsg) {
       println("We are at : " + totalMsgCounter)
-
-      recruiterHandler.sendMessage()
-      screenersHandler.sendMessage() 
-      
-      qlHandler.sendMessage()
-      Thread.sleep(2000)
-      caHandler.sendMessage(recruiterHandler, qlHandler)
-      Thread.sleep(2000)
-      screeningHandler.sendMessage(screenersHandler, qlHandler)
-      Thread.sleep(2000)
-      offersHandler.sendMessage(screenersHandler, recruiterHandler, qlHandler)
-      Thread.sleep(2000)
+      if(typeCounter == 0)
+        qlHandler.sendMessage()
+      else if(typeCounter == 1)
+        caHandler.sendMessage(recruitersHandler, qlHandler)
+      else if(typeCounter == 2)
+        screeningHandler.sendMessage(screenersHandler, qlHandler)
+      else if(typeCounter == 3)
+        offersHandler.sendMessage(screenersHandler, recruitersHandler, qlHandler)
     }
+    Thread.sleep(2000)
   }
 }
 
