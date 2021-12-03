@@ -50,7 +50,7 @@ object Kafka {
   sealed trait msgTypes {
 
     val topicName = "NaN"
-    var id: Int = 1
+    var id: Int = 0
     var msgCounter: Int = 0
     var msgData: Array[String] = Array[String]()
 
