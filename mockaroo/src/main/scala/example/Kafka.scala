@@ -50,7 +50,7 @@ object Kafka {
   sealed trait msgTypes {
 
     protected val topicName = "NaN"
-    protected var id: Int = 500
+    protected var id: Int = 0
     protected var msgCounter: Int = 0
     protected var msgData: Array[String] = Array[String]()
 
@@ -80,6 +80,7 @@ object Kafka {
         .replace("\"ql_id\":1", "\"ql_id\":" + qlHand.id)
 
       this.msgCounter += 1
+      this.id += 1;
 
       returnStr
     }
