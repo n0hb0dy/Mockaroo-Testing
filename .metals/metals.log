@@ -1,0 +1,7 @@
+[0m2021.12.03 11:58:07 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\Patrick\Documents\revatureToolsProjects\Mockaroo-Testing' for client Visual Studio Code 1.62.3.[0m
+[0m2021.12.03 11:58:08 INFO  time: initialize in 0.94s[0m
+[0m2021.12.03 11:58:11 WARN  Build server is not auto-connectable.[0m
+[0m2021.12.03 11:58:11 WARN  no build tool detected in workspace 'C:\Users\Patrick\Documents\revatureToolsProjects\Mockaroo-Testing'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.12.03 11:58:11 WARN  no build target for: C:\Users\Patrick\Documents\revatureToolsProjects\Mockaroo-Testing\mockaroo\src\main\scala\example\api.scala[0m
+[0m2021.12.03 11:58:19 INFO  shutting down Metals[0m
+[0m2021.12.03 11:58:25 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
