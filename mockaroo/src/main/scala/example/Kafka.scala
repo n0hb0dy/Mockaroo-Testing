@@ -255,7 +255,7 @@ object Kafka {
       println("We are at : " + totalMsgCounter)
 
       recruiterHandler.sendMessage()
-      screenersHandler.sendMessage()
+      screenersHandler.sendMessage() 
       
       qlHandler.sendMessage()
       Thread.sleep(2000)
