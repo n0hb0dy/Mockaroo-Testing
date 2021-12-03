@@ -29251,3 +29251,9 @@ No progress update for 30 seconds caused bloop to cancel compilation and schedul
 [0m2021.12.03 14:48:34 WARN  unsupported Scala 2.11.8[0m
 [0m2021.12.03 14:51:02 INFO  Deduplicating compilation of root from bsp client 'Metals 0.10.9' (since 16m 29.244s)[0m
 [0m2021.12.03 14:51:02 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 14:51:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:51:32 INFO  time: compiled root in 30s[0m
+[0m2021.12.03 14:51:32 WARN  Disconnecting from deduplication of ongoing compilation for 'root'
+No progress update for 30 seconds caused bloop to cancel compilation and schedule a new compile.
+                  [0m
+[0m2021.12.03 14:51:32 INFO  compiling root (1 scala source)[0m
