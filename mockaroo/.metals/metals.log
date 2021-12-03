@@ -27270,3 +27270,5 @@ WARNING: Unmatched cancel notification for request id 1096
 [0m2021.12.02 17:08:06 WARN  unsupported Scala 2.11.8[0m
 [0m2021.12.02 17:09:10 WARN  unsupported Scala 2.11.8[0m
 [0m2021.12.02 17:10:04 WARN  unsupported Scala 2.11.8[0m
+Dec 03, 2021 12:11:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1209
