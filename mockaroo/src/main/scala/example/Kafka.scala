@@ -69,6 +69,7 @@ object Kafka {
     }
  
     def sendMessage(): Unit = {
+      this.id += 1
       val msg = new ProducerRecord[String, String](
         this.topicName,
         totalMsgCounter.toString,
@@ -77,7 +78,7 @@ object Kafka {
 
       val meta = producer.send(msg);
 
-      this.id += 1
+
       this.msgCounter += 1
       totalMsgCounter += 1
       if(this.topicName == "Qualified_Lead") {
@@ -270,6 +271,7 @@ object Kafka {
 
   recruitersHandler.id += 1
   screenersHandler.id += 101
+  qlHandler.id += 200
 
   /** msgStream Will output a set of messages to each topic
     * 
