@@ -27272,3 +27272,1917 @@ WARNING: Unmatched cancel notification for request id 1096
 [0m2021.12.02 17:10:04 WARN  unsupported Scala 2.11.8[0m
 Dec 03, 2021 12:11:45 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
 WARNING: Unmatched cancel notification for request id 1209
+Dec 03, 2021 10:46:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1220
+Dec 03, 2021 10:47:00 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1226
+[0m2021.12.03 10:47:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 10:47:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 10:47:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 10:47:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 10:47:04 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\api.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 10:47:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 10:47:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 10:47:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:12:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:12:01 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 11:12:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:12:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:12:03 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 11:12:03 INFO  time: compiled root in 0.95s[0m
+[0m2021.12.03 11:12:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:12:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:12:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:12:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:12:10 WARN  unsupported Scala 2.11.8[0m
+Dec 03, 2021 11:23:09 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1262
+[0m2021.12.03 11:23:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:23:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:23:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:23:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:23:13 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\api.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 11:23:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:24:01 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\api.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 11:24:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:24:01 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\api.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 11:24:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:24:03 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\api.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 11:24:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:25:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:26:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:26:51 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 11:26:51 INFO  time: compiled root in 0.88s[0m
+[0m2021.12.03 11:44:36 WARN  unsupported Scala 2.11.8[0m
+Dec 03, 2021 11:44:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1303
+[0m2021.12.03 11:44:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:44:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:44:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:44:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:44:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:44:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:44:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:44:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:44:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:44:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:44:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:44:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:47:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:47:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:47:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:47:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:48:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:48:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:48:03 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:48:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:48:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:49:14 WARN  unsupported Scala 2.11.8[0m
+Dec 03, 2021 11:49:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1344
+[0m2021.12.03 11:49:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:49:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:49:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:49:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:49:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:49:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:49:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:49:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 11:49:27 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.03 11:49:27 INFO  time: compiled root in 0.96s[0m
+[0m2021.12.03 12:22:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:22:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:22:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:22:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:22:01 WARN  unsupported Scala 2.11.8[0m
+Dec 03, 2021 12:22:02 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1390
+[0m2021.12.03 12:22:03 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:22:04 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.03 12:22:04 INFO  time: compiled root in 0.78s[0m
+[0m2021.12.03 12:22:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:22:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:22:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:22:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:22:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:22:17 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 12:22:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:22:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:22:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:22:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:22:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:22:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:22:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:22:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:22:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:22:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:22:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:22:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:22:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:22:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:22:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:22:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:23:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:23:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:23:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:23:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:23:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:23:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:23:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:23:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:23:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:23:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:23:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:23:41 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:23:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:23:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:23:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:23:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:23:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:23:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:23:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:23:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:23:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:23:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:24:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:24:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:24:16 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:24:16 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:24:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:24:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:24:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:24:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:24:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:24:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:24:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:24:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:24:38 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 12:24:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:24:39 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 12:24:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:24:39 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 12:24:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:24:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:24:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:24:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:24:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:24:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:24:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:24:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:24:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:24:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:24:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:24:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:01 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 12:25:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:17 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 12:25:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:18 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.03 12:25:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:18 INFO  time: compiled root in 0.88s[0m
+[0m2021.12.03 12:25:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:21 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.03 12:25:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:21 INFO  time: compiled root in 0.71s[0m
+[0m2021.12.03 12:25:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:41 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 12:25:41 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:41 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 12:25:41 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:54 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 12:25:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:54 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 12:25:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:25:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:26:01 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.03 12:26:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:26:01 INFO  time: compiled root in 0.75s[0m
+[0m2021.12.03 12:26:03 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:26:08 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:26:11 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.03 12:26:11 INFO  time: compiled root in 0.9s[0m
+[0m2021.12.03 12:26:16 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:26:16 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:26:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:26:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:26:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:26:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:26:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:26:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:26:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:26:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:26:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:26:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:26:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:26:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:26:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:30:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:30:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:08 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.03 12:31:08 INFO  time: compiled root in 0.43s[0m
+[0m2021.12.03 12:31:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:11 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.03 12:31:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:12 INFO  time: compiled root in 1.06s[0m
+[0m2021.12.03 12:31:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:39 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.03 12:31:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:39 INFO  time: compiled root in 0.77s[0m
+[0m2021.12.03 12:31:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:49 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.03 12:31:49 INFO  time: compiled root in 0.49s[0m
+[0m2021.12.03 12:31:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:52 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.03 12:31:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:52 INFO  time: compiled root in 0.5s[0m
+[0m2021.12.03 12:31:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:54 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.03 12:31:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:54 INFO  time: compiled root in 0.84s[0m
+[0m2021.12.03 12:31:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:31:59 INFO  compiling root (3 scala sources)[0m
+[0m2021.12.03 12:31:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:32:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:32:01 INFO  time: compiled root in 1.9s[0m
+[0m2021.12.03 12:32:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:32:03 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:32:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:32:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:32:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:32:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:32:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:32:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:32:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:32:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:32:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:32:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:32:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:33:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:33:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:33:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:33:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:33:08 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:33:08 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 12:33:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:33:09 INFO  time: compiled root in 1.37s[0m
+[0m2021.12.03 12:33:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:33:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:33:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:33:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:33:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:33:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:33:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:33:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:33:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:33:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:33:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:33:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:33:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:33:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:33:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:34:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:34:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:34:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:34:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:34:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:34:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:34:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:34:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:34:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:34:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:34:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:34:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:34:06 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 12:34:08 INFO  time: compiled root in 1.48s[0m
+[0m2021.12.03 12:34:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:34:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:34:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:34:41 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:34:41 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:34:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:34:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:34:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:35:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:35:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:35:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:08 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:21 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 12:36:21 INFO  time: compiled root in 0.82s[0m
+[0m2021.12.03 12:36:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:38 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 12:36:38 INFO  time: compiled root in 0.81s[0m
+[0m2021.12.03 12:36:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:39 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 12:36:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:41 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 12:36:41 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:41 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 12:36:41 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:41 INFO  time: compiled root in 0.78s[0m
+[0m2021.12.03 12:36:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:50 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 12:36:50 INFO  time: compiled root in 0.81s[0m
+[0m2021.12.03 12:36:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:36:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:37:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:37:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:37:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:37:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:37:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:37:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:37:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:37:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:37:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:37:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:37:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:37:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:37:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:37:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:37:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:37:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:37:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:37:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:37:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:37:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:37:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:37:40 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 12:37:41 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:37:44 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 12:37:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:37:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:37:44 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 12:37:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:37:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:37:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:37:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:37:51 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 12:37:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:37:51 INFO  time: compiled root in 0.83s[0m
+[0m2021.12.03 12:37:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:37:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:37:59 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 12:37:59 INFO  time: compiled root in 0.7s[0m
+[0m2021.12.03 12:38:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:38:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:38:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:38:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:38:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:38:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:38:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:38:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:38:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:38:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:38:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:38:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:39:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:39:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:39:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:39:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:39:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:39:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:39:16 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:39:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:39:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:39:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:39:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:39:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:39:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:40:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:40:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:40:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:40:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:40:02 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 12:40:03 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:40:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:40:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:40:12 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 12:40:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:40:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:40:18 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 12:40:18 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 12:40:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:40:18 INFO  time: compiled root in 0.85s[0m
+[0m2021.12.03 12:40:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:40:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:40:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:40:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:40:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:40:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:41:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:41:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:41:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:41:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:41:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:41:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:41:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:41:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:41:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:41:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:41:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:41:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:41:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:41:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:41:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:41:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:41:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:41:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:41:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:41:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:41:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:41:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:41:41 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:41:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:41:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:41:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:41:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:41:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:41:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:41:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:41:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:42:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:42:46 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 12:42:46 INFO  time: compiled root in 0.77s[0m
+[0m2021.12.03 12:43:17 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 12:43:17 INFO  time: compiled root in 0.77s[0m
+[0m2021.12.03 12:43:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:43:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:43:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:43:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:43:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:43:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:43:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:43:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:43:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:44:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:44:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:44:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:44:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:44:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:44:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:44:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:44:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:44:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:44:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:44:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:44:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:44:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:44:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:44:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:44:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:44:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:44:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:44:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:44:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:44:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:44:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:44:29 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 12:44:31 INFO  time: compiled root in 1.54s[0m
+[0m2021.12.03 12:44:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:44:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:44:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:44:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:44:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:48:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:48:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:48:40 WARN  unsupported Scala 2.11.8[0m
+Dec 03, 2021 12:48:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3167
+[0m2021.12.03 12:49:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:49:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:49:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:49:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:49:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:49:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:49:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:49:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:49:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:49:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:49:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:49:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:49:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:49:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:49:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:49:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:49:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:49:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:53:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:53:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:53:03 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:53:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:53:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:53:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:57:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:57:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:58:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:58:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:58:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:58:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:58:41 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:58:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:58:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:58:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:58:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:58:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:58:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:58:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:58:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:58:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:58:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:30 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 12:59:30 INFO  time: compiled root in 0.96s[0m
+[0m2021.12.03 12:59:32 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 12:59:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:33 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 12:59:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:33 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 12:59:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:35 INFO  time: compiled root in 1.54s[0m
+[0m2021.12.03 12:59:35 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 12:59:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:38 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 12:59:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:38 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 12:59:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:38 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 12:59:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:41 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:41 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:45 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 12:59:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:46 INFO  time: compiled root in 1.57s[0m
+[0m2021.12.03 12:59:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:59 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:00:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 12:59:59 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:00:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:00:01 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 13:00:02 INFO  time: compiled root in 1.47s[0m
+[0m2021.12.03 13:00:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:00:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:00:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:00:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:00:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:00:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:00:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:00:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:00:28 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 13:00:30 INFO  time: compiled root in 1.3s[0m
+[0m2021.12.03 13:00:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:00:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:00:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:00:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:00:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:00:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:00:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:00:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:00:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:00:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:00:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:01:03 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:01:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:01:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:01:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:01:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:01:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:01:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:01:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:01:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:01:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:01:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:01:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:01:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:01:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:01:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:01:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:01:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:01:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:01:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:01:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:01:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:01:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:01:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:01:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:01:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:01:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:01:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:01:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:01:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:02:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:02:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:02:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:02:02 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:02:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:02:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:02:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:02:04 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 13:02:06 INFO  time: compiled root in 1.46s[0m
+[0m2021.12.03 13:02:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:02:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:02:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:02:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:02:12 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:02:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:02:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:02:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:02:15 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 13:02:17 INFO  time: compiled root in 1.56s[0m
+[0m2021.12.03 13:02:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:02:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:02:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:02:27 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 13:02:29 INFO  time: compiled root in 1.6s[0m
+[0m2021.12.03 13:02:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:02:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:02:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:02:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:02:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:02:38 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 13:02:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:02:39 INFO  time: compiled root in 1.58s[0m
+[0m2021.12.03 13:02:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:02:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:02:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:02:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:02:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:02:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:02:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:02:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:03:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:03:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:03:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:03:15 WARN  unsupported Scala 2.11.8[0m
+Dec 03, 2021 1:05:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3553
+[0m2021.12.03 13:05:18 WARN  unsupported Scala 2.11.8[0m
+Dec 03, 2021 1:05:22 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3561
+[0m2021.12.03 13:05:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:05:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:05:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:05:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:05:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:05:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:05:30 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\mock.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:05:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:05:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:05:37 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\mock.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:05:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:05:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:05:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:05:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:05:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:05:40 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 13:05:41 INFO  time: compiled root in 1.03s[0m
+Dec 03, 2021 1:06:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3612
+[0m2021.12.03 13:06:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:06:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:06:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:06:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:06:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:06:50 WARN  unsupported Scala 2.11.8[0m
+Dec 03, 2021 1:06:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3626
+[0m2021.12.03 13:07:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:07:28 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\mock.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:07:28 WARN  unsupported Scala 2.11.8[0m
+Dec 03, 2021 1:07:44 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3635
+[0m2021.12.03 13:07:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:07:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:07:47 WARN  unsupported Scala 2.11.8[0m
+Dec 03, 2021 1:07:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3645
+[0m2021.12.03 13:07:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:08:02 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 13:08:02 INFO  time: compiled root in 0.66s[0m
+[0m2021.12.03 13:08:03 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:08:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:08:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:08:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:08:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:08:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:08:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:08:18 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 13:08:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:08:19 INFO  time: compiled root in 1.32s[0m
+[0m2021.12.03 13:08:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:08:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:08:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:08:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:08:55 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\api.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:08:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:08:55 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\api.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:08:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:08:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:03 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 13:09:03 INFO  time: compiled root in 0.67s[0m
+[0m2021.12.03 13:09:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:06 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\api.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:09:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:07 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\api.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:09:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:09 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\api.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:09:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:09 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\api.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:09:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:20 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 13:09:20 INFO  time: compiled root in 0.53s[0m
+[0m2021.12.03 13:09:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:34 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\api.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:09:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:50 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 13:09:51 INFO  time: compiled root in 1.21s[0m
+[0m2021.12.03 13:09:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:09:56 WARN  unsupported Scala 2.11.8[0m
+Dec 03, 2021 1:10:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3836
+[0m2021.12.03 13:10:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:10:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:10:11 WARN  unsupported Scala 2.11.8[0m
+Dec 03, 2021 1:10:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3853
+Dec 03, 2021 1:10:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3873
+[0m2021.12.03 13:10:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:10:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:10:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:10:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:10:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:10:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:10:41 WARN  unsupported Scala 2.11.8[0m
+Dec 03, 2021 1:11:36 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3887
+[0m2021.12.03 13:11:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:11:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:11:58 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 13:11:59 INFO  time: compiled root in 1.04s[0m
+[0m2021.12.03 13:12:01 WARN  unsupported Scala 2.11.8[0m
+Dec 03, 2021 1:12:01 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 3907
+[0m2021.12.03 13:12:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:12:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:12:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:12:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:15:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:15:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:15:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:15:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:16:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:17:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:18:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:18:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:18:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:18:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:18:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:18:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:18:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:18:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:18:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:18:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:18:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:19:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:19:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:19:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:20:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:28:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:28:24 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 13:28:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:28:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:28:27 INFO  time: compiled root in 2.51s[0m
+[0m2021.12.03 13:30:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:30:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:30:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:30:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:36:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:36:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:36:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:36:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:36:55 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 13:36:57 INFO  time: compiled root in 1.81s[0m
+[0m2021.12.03 13:37:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:37:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:37:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:37:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:37:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:37:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:37:16 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:37:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:37:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:37:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:37:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:37:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:37:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:37:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:37:35 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:37:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:37:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:37:36 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 13:37:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:37:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:37:37 INFO  time: compiled root in 1.81s[0m
+[0m2021.12.03 13:37:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:38:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:38:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:38:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:38:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:38:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:38:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:38:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:38:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:38:28 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:38:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:38:28 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:38:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:38:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:38:28 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:38:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:38:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:38:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:38:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:38:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:38:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:38:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:38:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:38:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:38:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:38:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:39:03 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:39:03 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:39:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:39:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:39:14 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 13:39:15 INFO  time: compiled root in 1.81s[0m
+[0m2021.12.03 13:39:16 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:39:16 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:39:16 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:39:16 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:39:16 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:39:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:39:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:39:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:39:25 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 13:39:26 INFO  time: compiled root in 1.84s[0m
+[0m2021.12.03 13:40:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:40:41 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:40:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:40:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:41:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:41:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:41:24 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 13:41:25 WARN  unsupported Scala 2.11.8[0m
+Dec 03, 2021 1:41:26 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4136
+[0m2021.12.03 13:41:26 INFO  time: compiled root in 1.77s[0m
+[0m2021.12.03 13:41:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:41:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:41:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:41:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:41:35 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:41:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:41:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:41:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:41:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:41:41 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:41:41 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:41:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:41:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:41:45 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:41:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:41:45 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:41:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:41:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:41:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:41:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:41:56 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 13:41:58 INFO  time: compiled root in 2.05s[0m
+[0m2021.12.03 13:43:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:27 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:43:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:27 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:43:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:31 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:43:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:31 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:43:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:32 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 13:43:31 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:43:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:34 INFO  time: compiled root in 2.06s[0m
+[0m2021.12.03 13:43:40 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:43:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:40 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:43:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:40 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:43:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:41 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:43 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:43:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:43 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:43:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:45 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:43:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:45 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:43:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:45 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:43:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:43:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:44:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:44:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:44:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:44:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:44:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:44:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:44:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:44:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:44:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:44:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:44:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:44:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:44:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:44:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:44:53 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:44:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:44:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:44:53 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:44:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:44:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:44:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:44:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:44:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:44:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:45:00 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:45:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:45:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:45:00 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:45:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:45:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:45:05 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 13:45:07 INFO  time: compiled root in 1.87s[0m
+[0m2021.12.03 13:45:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:45:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:45:16 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:45:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:45:19 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 13:45:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:45:21 INFO  time: compiled root in 2.07s[0m
+[0m2021.12.03 13:45:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:45:21 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:45:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:45:22 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:45:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:45:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:45:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:45:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:45:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:46:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:46:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:46:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:46:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:46:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:46:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:46:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:46:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:46:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:46:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:46:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:47:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:47:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:47:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:47:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:47:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:47:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:47:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:47:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:47:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:47:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:47:33 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 13:47:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:47:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:47:35 INFO  time: compiled root in 1.87s[0m
+[0m2021.12.03 13:47:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:47:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:47:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:47:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:47:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:47:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:47:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:48:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:48:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:48:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:48:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:48:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:48:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:48:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:49:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:49:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:49:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:49:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:49:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:49:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:49:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:49:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:49:41 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:49:41 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:49:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:49:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:49:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:50:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:50:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:50:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:50:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:50:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:50:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:50:41 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:50:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:50:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:50:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:50:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:50:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:50:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:50:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:50:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:50:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:50:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:50:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:51:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:51:03 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:51:06 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 13:51:08 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:51:08 INFO  time: compiled root in 2.23s[0m
+[0m2021.12.03 13:51:08 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:51:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:51:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:51:15 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:51:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:51:15 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 13:51:17 INFO  time: compiled root in 2.29s[0m
+[0m2021.12.03 13:51:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:51:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:51:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:51:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:51:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:51:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:51:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:51:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:51:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:51:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:51:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:51:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:51:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:51:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:51:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:51:37 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:51:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:51:37 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:51:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:51:37 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 13:51:37 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:51:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:51:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:51:39 INFO  time: compiled root in 2.19s[0m
+[0m2021.12.03 13:51:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:51:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:51:48 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 13:51:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:51:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:51:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:51:50 INFO  time: compiled root in 2.1s[0m
+[0m2021.12.03 13:51:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:51:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:52:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:52:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:52:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:52:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:52:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:52:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:52:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:52:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:52:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:52:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:52:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:52:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:52:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:52:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:52:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:52:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:52:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:53:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:53:00 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:53:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:53:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:53:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:53:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:53:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:53:59 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:54:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:54:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:54:13 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:54:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:54:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:54:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:54:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:54:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:54:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:54:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:54:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:54:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:54:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:54:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:54:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:54:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:54:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:54:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:54:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:54:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:54:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:54:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:55:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:55:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:55:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:55:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:55:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:55:26 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:55:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:55:27 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:55:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:55:27 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:55:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:55:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:55:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:55:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:55:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:55:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:55:32 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 13:55:32 INFO  time: compiled root in 0.92s[0m
+[0m2021.12.03 13:55:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:55:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:55:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:55:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:55:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:55:42 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 13:55:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:55:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:55:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:55:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:55:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:55:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:55:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:55:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:55:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:55:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:55:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:56:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:56:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:56:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:56:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:56:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 13:56:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:02:16 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:02:16 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:02:19 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:02:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:02:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:02:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:02:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:02:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:02:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:02:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:02:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:02:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:02:34 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 14:02:34 INFO  time: compiled root in 0.53s[0m
+[0m2021.12.03 14:02:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:02:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:02:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:02:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:02:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:02:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:02:38 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:02:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:02:38 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:02:38 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 14:02:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:02:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:02:39 INFO  time: compiled root in 1s[0m
+[0m2021.12.03 14:02:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:02:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:02:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:02:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:02:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:02:51 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:02:51 WARN  unsupported Scala 2.11.8[0m
+Dec 03, 2021 2:02:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 03, 2021 2:02:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 03, 2021 2:02:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Dec 03, 2021 2:02:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+[0m2021.12.03 14:02:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:02:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:03:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:03:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:03:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:03:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:03:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:03:16 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:03:16 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:03:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:03:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:03:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:03:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:03:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:03:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:03:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:03:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:03:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:03:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:03:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:03:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:03:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:03:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:03:41 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:03:41 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:03:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:03:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:03:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:03:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:04:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:04:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:04:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:04:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:04:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:04:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:04:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:04:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:04:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:04:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:04:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:04:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:04:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:04:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:04:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:04:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:04:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:04:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:04:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:05:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:06:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:06:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:06:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:06:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:06:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:06:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:06:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:06:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:06:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:06:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:06:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:06:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:06:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:06:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:07:03 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:07:04 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:07:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:07:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:07:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:07:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:07:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:07:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:07:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:07:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:07:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:07:24 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:07:25 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 14:07:28 INFO  time: compiled root in 3.11s[0m
+[0m2021.12.03 14:12:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:12:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:13:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:13:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:13:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:13:40 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 14:13:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:13:43 INFO  time: compiled root in 2.83s[0m
+[0m2021.12.03 14:13:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:13:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:13:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:13:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:13:46 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 14:13:48 INFO  time: compiled root in 2.81s[0m
+[0m2021.12.03 14:15:03 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:15:03 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:15:03 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:17:03 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:17:19 WARN  unsupported Scala 2.11.8[0m
+Dec 03, 2021 2:17:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4995
+[0m2021.12.03 14:17:28 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 14:17:30 INFO  time: compiled root in 2.6s[0m
+[0m2021.12.03 14:17:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:17:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:17:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:17:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:17:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:17:53 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:17:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:17:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:17:57 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:17:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:17:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:18:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:18:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:18:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:18:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:18:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:18:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:18:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:18:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:18:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:18:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:18:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:19:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:20:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:20:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:20:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:20:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:20:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:20:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:20:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:20:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:20:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:20:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:20:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:20:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:20:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:20:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:20:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:20:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:20:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:20:32 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:20:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:20:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:20:32 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 14:20:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:20:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:20:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:20:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:20:35 INFO  time: compiled root in 2.95s[0m
+[0m2021.12.03 14:20:36 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:20:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:20:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:20:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:20:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:20:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:20:37 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 14:20:41 INFO  time: compiled root in 3.72s[0m
+[0m2021.12.03 14:22:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:22:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:22:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:22:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:22:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:22:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:22:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:22:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:23:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:23:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:23:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:23:55 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:24:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:24:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:24:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:24:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:24:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:24:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:24:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:24:52 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:24:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:24:58 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:25:01 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:25:03 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 14:25:05 INFO  time: compiled root in 1.38s[0m
+[0m2021.12.03 14:25:06 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:25:06 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:25:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:25:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:25:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:25:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:25:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:25:23 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:25:56 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:10 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:14 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:26:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:14 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:26:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:14 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:26:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:14 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:26:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:14 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:26:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:14 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:26:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:21 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 14:26:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:26 INFO  time: compiled root in 4.74s[0m
+[0m2021.12.03 14:26:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:28 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 14:26:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:38 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:26:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:42 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:26:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:42 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:26:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:42 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:26:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:42 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:26:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:43 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:26:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:26:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:27:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:27:16 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:27:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:27:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:27:52 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 14:29:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:15 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:18 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 14:29:18 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:29:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:18 INFO  time: compiled root in 0.55s[0m
+[0m2021.12.03 14:29:18 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:19 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:29:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:19 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:29:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:19 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:29:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:20 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:20 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:29:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:20 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:29:21 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:22 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:29:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:29 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:29:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:31 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:29:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:31 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:29:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:31 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 14:29:31 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:29:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:31 INFO  time: compiled root in 0.53s[0m
+[0m2021.12.03 14:29:31 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:40 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:43 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:45 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:47 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:48 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:29:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:48 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:29:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:49 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 14:29:48 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:29:49 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:48 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:49 INFO  time: compiled root in 0.94s[0m
+[0m2021.12.03 14:29:50 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:29:51 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:02 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:05 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:07 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:09 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:11 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:12 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:14 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:17 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:19 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:22 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:25 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 14:30:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:26 INFO  time: compiled root in 1.32s[0m
+[0m2021.12.03 14:30:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:28 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:30 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 14:30:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:30 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:31 INFO  time: compiled root in 1.23s[0m
+[0m2021.12.03 14:30:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:33 WARN  unsupported Scala 2.11.8[0m
+Dec 03, 2021 2:30:33 PM scala.meta.internal.pc.CompilerAccess retryWithCleanCompiler
+INFO: compiler crashed due to an error in the Scala compiler, retrying with new compiler instance.
+[0m2021.12.03 14:30:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:36 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:38 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:39 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 14:30:40 INFO  time: compiled root in 1.14s[0m
+[0m2021.12.03 14:30:42 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:44 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:46 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:54 ERROR code navigation does not work for the file 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo\src\main\scala\example\Kafka.scala' because the Scala version 2.11.8 is not supported. To fix this problem, change the Scala version to 2.12.15 or 2.13.7 or 3.1.0.[0m
+[0m2021.12.03 14:30:54 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:30:58 INFO  Deduplicating compilation of root from bsp client 'Metals 0.10.9' (since 23h 4m 12.01s)[0m
+[0m2021.12.03 14:30:58 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 14:31:26 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:31:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:31:27 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:31:28 INFO  time: compiled root in 30s[0m
+[0m2021.12.03 14:31:28 WARN  Disconnecting from deduplication of ongoing compilation for 'root'
+No progress update for 30 seconds caused bloop to cancel compilation and schedule a new compile.
+                  [0m
+[0m2021.12.03 14:31:28 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 14:31:33 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:31:34 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:31:35 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:31:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:31:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:31:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:31:39 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:33:25 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:33:29 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:33:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:33:32 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:33:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:33:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:33:37 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:33:39 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 14:34:03 INFO  shutting down Metals[0m
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+No more data in the client stdin, exiting...
+No more data in the server stdin, exiting...
+java.util.concurrent.RejectedExecutionException: Task scala.concurrent.impl.CallbackRunnable@13ed16b rejected from java.util.concurrent.ThreadPoolExecutor@3c5ae8[Shutting down, pool size = 1, active threads = 1, queued tasks = 0, completed tasks = 39627]
+	at java.util.concurrent.ThreadPoolExecutor$AbortPolicy.rejectedExecution(ThreadPoolExecutor.java:2063)
+	at java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:830)
+	at java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1379)
+	at scala.concurrent.impl.ExecutionContextImpl$$anon$4.execute(ExecutionContextImpl.scala:138)
+	at scala.concurrent.impl.CallbackRunnable.executeWithValue(Promise.scala:72)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.$anonfun$tryComplete$1$adapted(Promise.scala:288)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete(Promise.scala:288)
+	at scala.concurrent.Promise.complete(Promise.scala:53)
+	at scala.concurrent.Promise.complete$(Promise.scala:52)
+	at scala.concurrent.impl.Promise$DefaultPromise.complete(Promise.scala:187)
+	at scala.concurrent.impl.Promise.$anonfun$transform$1(Promise.scala:33)
+	at scala.concurrent.impl.CallbackRunnable.run(Promise.scala:64)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+[0m2021.12.03 14:34:31 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\98jjm\OneDrive\Documents\Mockaroo Testing\mockaroo' for client Visual Studio Code 1.62.3.[0m
+[0m2021.12.03 14:34:31 INFO  time: initialize in 0.35s[0m
+[0m2021.12.03 14:34:31 INFO  Attempting to connect to the build server...[0m
+[0m2021.12.03 14:34:31 INFO  skipping build import with status 'Installed'[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 11511'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:11511...
+The server is listening for incoming connections at tcp://127.0.0.1:11511...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+[0m2021.12.03 14:34:33 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\98jjm\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2021.12.03 14:34:33 INFO  Attempting to connect to the build server...[0m
+Starting the bsp launcher for bloop...
+Opening a bsp server connection with 'bsp --protocol tcp --port 34442'...
+Waiting for the bsp connection to come up...
+[0m[32m[D][0m Loading workspace settings from bloop.settings.json
+[0m[32m[D][0m Waiting for a connection at 127.0.0.1:34442...
+The server is listening for incoming connections at tcp://127.0.0.1:34442...
+Starting thread that pumps stdin and redirects it to the bsp server...
+Starting thread that pumps server stdout and redirects it to the client stdout...
+Default dialect is deprecated; use explicit: [Scala211,scala212,Scala212Source3,scala213,Scala213Source3,Sbt0137,Sbt1,scala3]
+Also see https://scalameta.org/scalafmt/docs/configuration.html#scala-dialects"
+[0m2021.12.03 14:34:34 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\98jjm\AppData\Local\scalameta\metals\cache\bsp.trace.json[0m
+[0m2021.12.03 14:34:34 INFO  time: Connected to build server in 1.98s[0m
+[0m2021.12.03 14:34:34 INFO  Connected to Build server: Bloop v1.4.11[0m
+[0m2021.12.03 14:34:34 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2021.12.03 14:34:34 INFO  time: code lens generation in 1.97s[0m
+[0m2021.12.03 14:34:35 INFO  no build target: using presentation compiler with only scala-library: 3.1.0[0m
+[0m2021.12.03 14:34:36 INFO  time: code lens generation in 4.11s[0m
+[0m2021.12.03 14:34:41 INFO  time: indexed workspace in 6.29s[0m
+[0m2021.12.03 14:34:41 WARN  unsupported Scala 2.11.8[0m
+[0m2021.12.03 14:34:41 INFO  Deduplicating compilation of root from bsp client 'Metals 0.10.9' (since 23h 7m 54.627s)[0m
+[0m2021.12.03 14:34:41 INFO  compiling root (1 scala source)[0m
+[0m2021.12.03 14:34:41 INFO  no build target: using presentation compiler with only scala-library: 2.12.14[0m
+Dec 03, 2021 2:34:41 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace

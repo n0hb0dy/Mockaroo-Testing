@@ -49,42 +49,24 @@ object Kafka {
     */
   sealed trait msgTypes {
 
-    protected val topicName = "NaN"
-    protected var id: Int = 0
-    protected var msgCounter: Int = 0
-    protected var msgData: Array[String] = Array[String]()
+    val topicName = "NaN"
+    var id: Int = 1
+    var msgCounter: Int = 0
+    var msgData: Array[String] = Array[String]()
 
     def loadNewData(): Unit = ???
 
     def messageGenerator(): String = {
-      if (this.msgCounter < this.msgData.length) {
+      if (this.msgCounter > this.msgData.length - 1) {    // < BAD > GOOD 
         this.loadNewData()
         this.msgCounter = 0
       }
       val returnStr = this.msgData(this.msgCounter)
         .replace("\"id\":1", "\"id\":" + this.id)
 
-      msgCounter += 1
-      this.id += 1;
-
       returnStr
     }
-
-    def messageGenerator(qlHand: QualifiedLead): String = {
-      if (this.msgCounter < this.msgData.length) {
-        this.loadNewData()
-        this.msgCounter = 0
-      }
-      val returnStr = this.msgData(this.msgCounter)
-        //.replace("\"id\":1", "\"id\":" + this.id)
-        .replace("\"ql_id\":1", "\"ql_id\":" + qlHand.id)
-
-      this.msgCounter += 1
-      this.id += 1;
-
-      returnStr
-    }
-
+ 
     def sendMessage(): Unit = {
       val msg = new ProducerRecord[String, String](
         this.topicName,
@@ -94,21 +76,11 @@ object Kafka {
 
       val meta = producer.send(msg);
 
+      this.id += 1
+      this.msgCounter += 1
       totalMsgCounter += 1
     }
-
-    def sendMessage(qlHand: QualifiedLead): Unit = {
-      val msg = new ProducerRecord[String, String](
-        this.topicName,
-        totalMsgCounter.toString,
-        this.messageGenerator(qlHand)
-      )
-
-      val meta = producer.send(msg);
-
-      totalMsgCounter += 1
-    }
-
+ 
   }
 
 
@@ -129,8 +101,6 @@ object Kafka {
     override def loadNewData(): Unit = {
       msgData = screenerData()
     }
-
-
   }
 
   case class QualifiedLead() extends msgTypes {
@@ -140,7 +110,6 @@ object Kafka {
     override def loadNewData(): Unit = {
       msgData = qlData()
     }
-
   }
 
   case class ContactAttempts() extends msgTypes {
@@ -151,6 +120,33 @@ object Kafka {
       msgData = caData()
     }
 
+    def messageGenerator(recruiterH: Recruiters,
+                         qlH: QualifiedLead): String = {
+      if (this.msgCounter > this.msgData.length - 1) {
+        this.loadNewData()
+        this.msgCounter = 0
+      }
+      val returnStr = this.msgData(this.msgCounter)
+        .replace("\"recruiter_id\":1", "\"recruiter_id\":" + recruiterH.id)
+        .replace("\"ql_id\":1", "\"ql_id\":" + qlH.id)
+
+      returnStr
+    }
+
+    def sendMessage(recruiterH: Recruiters,
+                    qlH: QualifiedLead): Unit = {
+      val msg = new ProducerRecord[String, String](
+        this.topicName,
+        totalMsgCounter.toString,
+        this.messageGenerator(recruiterH, qlH)
+      )
+
+      val meta = producer.send(msg);
+
+      this.id += 1
+      this.msgCounter += 1
+      totalMsgCounter += 1
+    }
   }
 
   case class Screening() extends msgTypes {
@@ -160,7 +156,34 @@ object Kafka {
     override def loadNewData(): Unit = {
       msgData = screeningData()
     }
+     
+    def messageGenerator(screenerH: Screeners,
+                         qlH: QualifiedLead): String = {
+      if (this.msgCounter > this.msgData.length - 1) {
+        this.loadNewData()
+        this.msgCounter = 0
+      }
+      val returnStr = this.msgData(this.msgCounter)
+        .replace("\"screener_id\":1", "\"screener_id\":" + screenerH.id)
+        .replace("\"ql_id\":1", "\"ql_id\":" + qlH.id)
 
+      returnStr
+    }
+
+    def sendMessage(screenerH: Screeners,
+                    qlH: QualifiedLead): Unit = {
+      val msg = new ProducerRecord[String, String](
+        this.topicName,
+        totalMsgCounter.toString,
+        this.messageGenerator(screenerH, qlH)
+      )
+
+      val meta = producer.send(msg);
+
+      this.id += 1
+      this.msgCounter += 1
+      totalMsgCounter += 1
+    }
   }
 
   case class Offers() extends msgTypes {
@@ -171,22 +194,53 @@ object Kafka {
       msgData = offerData()
     }
 
+    def messageGenerator(screenerH: Screeners,
+                         recruiterH: Recruiters,
+                         qlH: QualifiedLead): String = {
+      if (this.msgCounter > this.msgData.length - 1) {
+        this.loadNewData()
+        this.msgCounter = 0
+      }
+      val returnStr = this.msgData(this.msgCounter)
+        .replace("\"screener_id\":1", "\"screener_id\":" + screenerH.id)
+        .replace("\"recruiter_id\":1", "\"recruiter_id\":" + recruiterH.id)
+        .replace("\"ql_id\":1", "\"ql_id\":" + qlH.id)
+
+      returnStr
+    }
+
+    def sendMessage(screenerH: Screeners,
+                    recruiterH: Recruiters,
+                    qlH: QualifiedLead): Unit = {
+      val msg = new ProducerRecord[String, String](
+        this.topicName,
+        totalMsgCounter.toString,
+        this.messageGenerator(screenerH, recruiterH, qlH)
+      )
+
+      val meta = producer.send(msg);
+
+      this.id += 1
+      this.msgCounter += 1
+      totalMsgCounter += 1
+    }
+
   }
 
 
-
+  val recruiterHandler = new Recruiters()
   val qlHandler = new QualifiedLead()
   val caHandler = new ContactAttempts()
   val screeningHandler = new Screening()
   val offersHandler = new Offers()
   val screenersHandler = new Screeners()
 
-
+  recruiterHandler.loadNewData()
+  screenersHandler.loadNewData()
   qlHandler.loadNewData()
   caHandler.loadNewData()
   screeningHandler.loadNewData()
   offersHandler.loadNewData()
-  // screenersHandler.loadNewData()
 
   /** msgStream Will output a set of messages to each topic
     * 
@@ -200,13 +254,18 @@ object Kafka {
     for (i <- 0 until numMsg) {
       println("We are at : " + totalMsgCounter)
 
+      recruiterHandler.sendMessage()
+      screenersHandler.sendMessage()
+      
       qlHandler.sendMessage()
-      caHandler.sendMessage()
-
-      screeningHandler.sendMessage()
-      offersHandler.sendMessage()
+      Thread.sleep(2000)
+      caHandler.sendMessage(recruiterHandler, qlHandler)
+      Thread.sleep(2000)
+      screeningHandler.sendMessage(screenersHandler, qlHandler)
+      Thread.sleep(2000)
+      offersHandler.sendMessage(screenersHandler, recruiterHandler, qlHandler)
+      Thread.sleep(2000)
     }
-    Thread.sleep(2000) // After sending all messages, wait 2 secs
   }
 }
 

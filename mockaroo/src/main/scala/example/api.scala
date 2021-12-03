@@ -45,7 +45,7 @@ object Api {
     }
 
    
-    final val apiKeyArray = Array("2f9538c0", "235571b0", "fe859db0")
+    final val apiKeyArray = Array("2f9538c0", "235571b0", "fe859db0", "d7f87c40")
     var keyIter = 0
     //Calls to Mockaroo API to generate mock data
     
@@ -64,44 +64,46 @@ object Api {
     //         }
     //     }
     
-    val RecruiterURL = "https://my.api.mockaroo.com/Recruiters?key="
+    // val RecruiterURL = "https://my.api.mockaroo.com/Recruiters?key="
 
-    def obtainData(url: String): Array[String] = {
-        var exit = false
-        var JSON = Array[String]()
-        while(!exit){
-            println("Starting the while loop")
-            for(key <- 0 to apiKeyArray.length){
-                try{
-                    var JSON = getRestContent(s"$url=$key").split("},")
-                    var exit = true
-                }catch{
-                    case ex : Throwable => {
-                        ex.printStackTrace();
-                        println(s"API was not called because call limit for $key has been met")
-                        throw new Exception (s"${ex.getMessage}")
-                    }
-                }
-            }
-        }
-        println("while loop stopped")
-        JSON
-    }
+    // def obtainData(url: String): Array[String] = {
+    //     var exit = false
+    //     var JSON = Array[String]()
+    //     while(!exit){
+    //         println("Starting the while loop")
+    //         for(key <- 0 to apiKeyArray.length){
+    //             try{
+    //                 var JSON = getRestContent(s"$url=$key").split("},")
+    //                 var exit = true
+    //             }catch{
+    //                 case ex : Throwable => {
+    //                     ex.printStackTrace();
+    //                     println(s"API was not called because call limit for $key has been met")
+    //                     throw new Exception (s"${ex.getMessage}")
+    //                 }
+    //             }
+    //         }
+    //     }
+    //     println("while loop stopped")
+    //     JSON
+    // }
 
-    def recruiterData(): Array[String] =    {//getRestContent(s"https://my.api.mockaroo.com/Recruiters?key=${apiKeyArray(keyIter)}").split("},")
-                                            obtainData(RecruiterURL)}
+    // def recruiterData(): Array[String] =    {//getRestContent(s"https://my.api.mockaroo.com/Recruiters?key=${apiKeyArray(keyIter)}").split("},")
+    //                                         obtainData(RecruiterURL)}
 
-    def qlData(): Array[String] =           getRestContent(s"https://my.api.mockaroo.com/Qualified_Lead?key=${apiKeyArray(keyIter)}").split("},")
+    def recruiterData(): Array[String] =    getRestContent(s"https://my.api.mockaroo.com/Recruiters?key=${apiKeyArray(2)}").split("},")
 
-    def screenerData(): Array[String] =     getRestContent(s"https://my.api.mockaroo.com/Screeners?key=${apiKeyArray(keyIter)}").split("},")
+    def qlData(): Array[String] =           getRestContent(s"https://my.api.mockaroo.com/Qualified_Lead?key=${apiKeyArray(2)}").split("},")
 
-    def offerData(): Array[String] =        getRestContent(s"https://my.api.mockaroo.com/Offers?key=${apiKeyArray(keyIter)}").split("},")
+    def screenerData(): Array[String] =     getRestContent(s"https://my.api.mockaroo.com/Screeners?key=${apiKeyArray(2)}").split("},")
 
-    def screeningData(): Array[String] =    getRestContent(s"https://my.api.mockaroo.com/Screening?key=${apiKeyArray(keyIter)}").split("},")
+    def offerData(): Array[String] =        getRestContent(s"https://my.api.mockaroo.com/Offers?key=${apiKeyArray(2)}").split("},")
 
-    def caData(): Array[String] =           getRestContent(s"1").split("},")
+    def screeningData(): Array[String] =    getRestContent(s"https://my.api.mockaroo.com/Screening?key=${apiKeyArray(2)}").split("},")
 
-    def qlBIGData(): Array[String] =        getRestContent(s"https://my.api.mockaroo.com/Qualified_Lead_Big_Table?key=${apiKeyArray(keyIter)}").split("},")
+    def caData(): Array[String] =           getRestContent(s"https://my.api.mockaroo.com/Contact_Attempts?key=${apiKeyArray(2)}").split("},")
+
+    def qlBIGData(): Array[String] =        getRestContent(s"https://my.api.mockaroo.com/Qualified_Lead_Big_Table?key=${apiKeyArray(2)}").split("},")
 
 //////
     // def recruiterData(): Array[String] =    tmpStr.split("\n");
